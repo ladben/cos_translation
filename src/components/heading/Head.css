@@ -1,0 +1,20 @@
+.head {
+  font-size: 30px;
+  width: 100vw;
+  text-align: center;
+  padding-top: 20px;
+  position: fixed;
+  top: 0;
+  gap: 5px;
+}
+
+.lower-1 {
+  font-size: .8em;
+}
+
+.under-line {
+  width: 60%;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent-light);
+}
