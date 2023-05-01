@@ -1,0 +1,7 @@
+.back-button-container {
+  position: absolute;
+  padding: 15px;
+  right: 15px;
+  bottom: 0;
+  transform: rotate(180deg);
+}

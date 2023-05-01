@@ -1,0 +1,7 @@
+.body-wrapper {
+  margin-top: 65px;
+  position: relative;
+  z-index: 10;
+  padding: 15px;
+  height: calc(100vh - 65px);
+}

@@ -1,4 +1,5 @@
 .head {
+  font-family: Title;
   font-size: 30px;
   width: 100vw;
   text-align: center;
@@ -6,6 +7,7 @@
   position: fixed;
   top: 0;
   gap: 5px;
+  z-index: 1000;
 }
 
 .lower-1 {

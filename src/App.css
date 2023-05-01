@@ -1,15 +1,21 @@
 .outer-wrapper {
   max-width: 100%;
+}
+
+.background-image-container {
+  position: absolute;
+  height: calc(100vh - 70px);
+  width: 100vw;
+  top: 70px;
   overflow: hidden;
-  font-family: Title;
 }
 
 .background-image {
   position: absolute;
-  filter: brightness(0.2);
-  mix-blend-mode: darken;
-  height: 100vh;
-  top: 100px;
   left: 50%;
   transform: translateX(-50%);
+  filter: brightness(0.2);
+  mix-blend-mode: darken;
+  object-fit: cover;
+  height: 110%;
 }
