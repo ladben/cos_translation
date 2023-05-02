@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "chapterId": 1,
+    "number": "A.",
+    "title": "Old Svalich Road",
+    "text": "<p>Sötét víztócsák fekszenek sötét tükörként a sáros úttesten és körülötte. Az út két oldalán hatalmas fák magasodnak, ágaikkal a ködöt karmolásszák a szélben.</p>",
+    "note": ""
+  },
+  {
+    "id": 2,
+    "chapterId": 1,
+    "number": "B.",
+    "title": "Gates of Barovia",
+    "text": "<p>Ahogy a köd kiáramlik az erdőből, elnyeli a mögöttetek lévő utat. Az áthatolhatatlan rengetegből kiérve, az út két oldalán magas, szürke kőbástyák tűnnek fel a ködben. Hatalmas vaskapuk nehezednek a kövezetre. A harmat hidegen tapad a rozsdás rácsokra. Két fej nélküli, fegyveres őrszobor szegélyezi a kaput, fejük most a lábuknál lévő gaz között hever. Csak néma csenddel üdvözölnek titeket.</p>",
+    "note": ""
+  },
+  {
+    "id": 3,
+    "chapterId": 1,
+    "number": "C.",
+    "title": "Svalich Woods",
+    "text": "<p>A magasra törő fák, amelyeknek teteje beleveszik a súlyos, szürke ködbe, semmit sem enged át magán, csak a halálszürke fényt. A fatörzsek természetellenesen közel vannak egymáshoz, és az erdőben bár egy rég elfeledett sír csendje uralkodik, mégis egy hangtalan sikoly érzetét árasztja.</p>",
+    "note": ""
+  },
+  {
+    "id": 4,
+    "chapterId": 1,
+    "number": "D.",
+    "title": "River Ivlis",
+    "text": "<p>Ez a folyó, mely végigszeli a völgyet olyan tiszta, mint a téli kék égbolt.</p>",
+    "note": ""
+  },
+  {
+    "id": 5,
+    "chapterId": 1,
+    "number": "F.",
+    "title": "River Ivlis Crossroads",
+    "text": "<p>Egy öreg akasztófa nyikorog a nyugati magaslatról fújó hideg szélben. Egy foszlott kötélvég táncol a gerendájáról lógva. A jól bejáratott út itt kettéválik, és az akasztófával szemben egy tábla három irányba mutat: Keletre Barovia falu, északnyugatra Tser Medence, délnyugatra pedig Ravenloft/Vallaki. Az északnyugati elágazás lefelé lejt, és eltűnik a fák között, míg a délnyugati elágazás egy emelkedőbe kapaszkodik. Az akasztófával szemben egy alacsony, helyenként omladozó fal próbál körülvenni egy ködbe burkolózó kis sírhelyet.</p>",
+    "note": ""
+  },
+  {
+    "id": 6,
+    "chapterId": 1,
+    "number": "G.",
+    "title": "Tser Pool Encampment",
+    "text": "<p>Az út fokozatosan eltűnik, és helyébe a fák között egy kanyargós, sáros ösvény lép. A földbe vájt mély barázdák szekerek nyomairól tanúskodnak.</p><p>A köd és az ágak lombkoronája hirtelen átadja a helyét a messze magasan lebegő fekete felhőknek. Egy folyó melletti tisztást pillantotok meg, amely egy pár száz méter széles kis tóvá szélesedik. Öt színes, kerek, egyenként három méter átmérőjű sátor áll egy négy szekérből álló gyűrűn kívül. Egy sokkal nagyobb sátor áll a tó partjának közelében, megereszkedett alakja belülről meg van világítva. E sátor közelében nyolc szabadon engedett ló a folyó vizét issza.</p><p>Egy harmonika gyászos hangjai ütköznek számos tarka ruhába öltözött alak énekével, kik egy hatalmas tábortűz mellett dalolnak. Az ösvény tovább folytatódik, elhalad a népes csoport mellett, észak felé kanyarogva a folyó és az erdőszegély között.</p>",
+    "note": ""
+  },
+  {
+    "id": 7,
+    "chapterId": 1,
+    "number": "H.",
+    "title": "Tser Falls",
+    "text": "<p>Követitek a folyót egy kanyon aljáig, amelynek túlsó végén egy hatalmas vízesés ömlik egy medencébe, hideg ködfelhőket eregetve. Egy hatalmas kőhíd ível át a kanyonon, közel háromszáz méter magasan.</p>",
+    "note": "Ha a karakterek a vistani táborból (G terület) a gyalogösvényt követve jutnak el a H területre."
+  },
+  {
+    "id": 8,
+    "chapterId": 1,
+    "number": "H.",
+    "title": "Tser Falls",
+    "text": "<p>Követitek a földutat, amely a hegyoldalba kapaszkodik, és egy természetes szakadékot átívelő, penészedő kőből készült íves híd előtt ér véget. Fekete mohába burkolózott vízköpők ülnek a híd sarkán, viharvert ábrázatukkal előre merednek. A híd hegy felőli oldalán egy vízesés zuhan közel háromszáz métert egy ködös medencébe. A medence egy folyót táplál, amely a völgyet borító ködbe burkolózó fenyők közé kanyarog.</p>",
+    "note": "Ha a karakterek a fenti úton jutnak el a H területre."
+  },
+  {
+    "id": 9,
+    "chapterId": 1,
+    "number": "I.",
+    "title": "Black Carriage",
+    "text": "<p>Még itt, a hegyekben is elkerülhetetlen páros az erdő és a köd. Előttetek a földút kettéválik, és kelet felé kiszélesedik. Ott macskaköves foltokat látni, ami arra utal, hogy a keleti ág egykor fontos főútvonal volt.</p><i>Ha Strahd hívta meg a karaktereket a Ravenloft kastélyba, vagy más módon akarja őket az ő irányába terelni, tedd hozzá:</i><p>Az útelágazásnál, kelet felé mutatva, egy nagy fekete kocsi áll, amelyet két fekete ló húz. A lovak gőzölgő leheletet pöfékelnek a hűvös hegyi levegőbe. A kocsi oldalsó ajtaja csendben kinyílik.</p>",
+    "note": ""
+  },
+  {
+    "id": 10,
+    "chapterId": 1,
+    "number": "J.",
+    "title": "Gates of Ravenloft",
+    "text": "<p>Miután átkanyarodtatok az erdőn és a sziklás hegycsúcsokon, az út hirtelen kelet felé fordul, és máris a Ravenloft kastély megdöbbentő, félelmetes jelenléte tornyosul előttetek. A kocsi megáll a hosszú évek alatt megtört kőből épült ikertornyok előtt. Az őrtornyokon túl egy tizenöt méter széles, köddel teli szakadék peremét látjátok, amely ismeretlen mélységekben tűnik el.</p><p>A szakadékon egy régi fagerendákból készült felvonóhíd fekszik leeresztve, köztetek és az udvarra nyíló boltív között. A felvonóhíd láncai nyikorognak a szélben, a rozsdás vas megfeszül a súly alatt. A magas falak tetejéről kő vízköpők bámulnak rátok üreges szemgödreikből, és förtelmesen vigyorognak. A bejárati alagút fölött egy korhadó, fából készült rostélyos kapu lóg. Ezen a helyen túl Ravenloft főbejáratai állnak nyitva. Belülről dús, meleg fény árad ki, elárasztva az udvart. A nyitott ajtók két oldalán a fákylákban szomorúan lobog a tűz.</p>",
+    "note": ""
+  },
+  {
+    "id": 11,
+    "chapterId": 1,
+    "number": "L",
+    "title": "Lake Zarovich",
+    "text": "<p>Egy hegy lábánál, a ködös erdőbe ágyazva egy nagy tó található. A víz tökéletesen mozdulatlan és sötét, szörnyű tükörként vetíti a fölötte lévő fekete felhők képét.</p><i>Ha a karakterek nappal érkeznek a Vallakitól északra fekvő part mentén, tedd hozzá:</i><p>A déli part mentén három kis csónak ring a vizen. A tó közepén egy negyedik csónak látható, benne egy magányos alak ül, horgászbottal a kezében.</p>",
+    "note": ""
+  },
+  {
+    "id": 12,
+    "chapterId": 1,
+    "number": "M",
+    "title": "Mad Mage of Mount Baratok",
+    "text": "<p>A hegyi tótól északra a fák megkezdik a Baratok hegy lejtőin való folyamatos felkapaszkodást, monolitikus jelenléte már ebben a távolságban is nyomasztó. A talaj itt sziklás, egyenetlen, fárasztó itt haladni. Még a farkasok is elkerülik az erdőnek ezt a részét. Hamarosan a völgyet elborító ködtakaró fölé emelkedtek. Sötét zivatarfelhők gomolyognak a fejetek felett.</p><p>Egy húsz méterre eső sziklán egy jávorszarvas áll. Hirtelen egy idős férfi alakját ölti magára, szakadt sárga köntösben.</p>",
+    "note": ""
+  },
+  {
+    "id": 13,
+    "chapterId": 1,
+    "number": "P",
+    "title": "Luna River Crossroads",
+    "text": "<p>Az út egy X alakú kereszteződéshez érkezik, amelynek északnyugati, északkeleti, délnyugati és délkeleti elágazásai vannak. A kereszteződés keleti könyökének közelében egy letört fa jelzőtábla alsó fele áll ki a földből. A tábla felső fele, négy irányba mutató karokkal, a közeli gazban hever.</p>",
+    "note": ""
+  },
+  {
+    "id": 14,
+    "chapterId": 1,
+    "number": "R",
+    "title": "Raven River Crossroads",
+    "text": "<p>Az út mellett megláttok egy megkopott útjelző táblát. A tábla három karja az út három ága mentén mutat előre. Az északra mutató karon Krezk felirat olvasható, és arra az erdőn keresztül egy folyót átszelő íves kőhidat láthattok. A kelet felé mutató karon Vallaki áll, és az út fokozatosan emelkedik felfelé. A délnyugatra mutató karon a Bormágus Borászat felirat olvasható. Az út abba az irányba enyhén lejt lefelé.</p>",
+    "note": ""
+  }
+]

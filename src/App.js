@@ -1,7 +1,10 @@
 import './App.css';
 
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
 import Head from './components/heading/Head';
-import Body from './components/body/Body';
+import Chapters from './components/body/Chapters';
+import Locations from './components/body/Locations';
 
 import raven from './assets/images/raven.jpeg';
 
@@ -9,7 +12,16 @@ function App() {
   return (
     <div className='outer-wrapper'>
       <Head />
-      <Body />
+      <Router>
+        <Switch>
+          <Route exact path="/">
+            <Chapters />
+          </Route>
+          <Route path="/:chapterId">
+            <Locations />
+          </Route>
+        </Switch>
+      </Router>
       <div className='background-image-container'>
         <img className="background-image" alt="raven" src={raven}/>
       </div>

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "chapterId": 1,
+    "locationId": 6,
+    "number": "",
+    "title": "A Vistana's Tale",
+    "text": "<p>Egy hatalmas varázsló érkezett e földre több, mint egy évvel ezelőtt. Úgy emlékszem rá, mintha csak tegnap történt volna. Pontosan ott állt, ahol most ti! Igen megnyerő ember volt, úgy van. Azt gondolta összegyűjtheti Barovia népét az ördögi Strahd ellen. Felkavarta őket a lázadás gondolatával, és tömegesen vitte őket a kastélyhoz.</p><p>Amikor a vámpír megjelent, a varázsló paraszt hadseregének inába szállt a bátorsága. Halálfélelmükben elmenekültek mind. Aki mégis ott maradt, örökre eltűnt.</p><p>A varázsló és a vámpír egymás után szórták a varázslatokat. Küzdelmük Ravenloft udvaraitól egész a vízesést körbefogó szakadékig szállt! A saját szememmel láttam őket. A hegyoldalt mennydörgés rázta meg és hatalmas sziklák gördültek a varázslóra, mégiája mégis megmentette. Villámok csaptak le az égből, és a varázsló újra két lábon állt. De amikor az ördögi Strahd rázuhant, mágiája már cserben hagyta. Láttam, ahogy több száz métert zuhan a halálba. Lemásztam a folyóhoz, hogy megkeressem a holttestet, hogy… hát tudjátok, hogy találok-e valami értékeset nála de az Ilvis folyó addigra már rég arrébb mosta.</p>",
+    "note": ""
+  },
+  {
+    "id": 1,
+    "chapterId": 1,
+    "locationId": 6,
+    "number": "",
+    "title": "Madam Eva's Tent",
+    "text": "<p>Mágikus lángok vetnek vöröses fényt a sátor belsejére, megvilágítva egy alacsony, fekete bársonyszövetbe burkolt asztalt. Az asztalon lévő kristálygömbből fénysugár villan ki, miközben egy görnyedt alak a mélyébe néz. A vénasszony szavai ropognak, mint a száraz gaz: \"No lám, végül csak megérkeztetek!\" Harsogó nevetése úgy tör elő kiszáradt ajkaiból, mint egy őrült villámlás.</p>",
+    "note": ""
+  }
+]

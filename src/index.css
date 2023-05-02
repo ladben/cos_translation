@@ -41,3 +41,15 @@ code {
   flex-direction: column;
   align-items: center;
 }
+
+.grid-1 {
+  display: grid;
+  grid-template-columns: minmax(0, 100%);
+  gap: 30px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 100%));
+  gap: 30px
+}
