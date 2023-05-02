@@ -1,5 +1,5 @@
 import './Back.css'
-import pageturn from '../../assets/images/next_page.png';
+import pageturn from '../../assets/images/back.png';
 
 function Back () {
   return (
