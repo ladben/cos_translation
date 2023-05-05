@@ -2,9 +2,20 @@
   max-width: 100%;
 }
 
+.body-wrapper {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 10;
+  padding: 20px;
+  padding-bottom: 5px;
+  height: calc(var(--vh) * 100 - 90px);
+  overflow: auto;
+}
+
 .background-image-container {
   position: absolute;
-  height: calc(100vh - 70px);
+  height: calc(var(--vh) * 100 - 70px);
   width: 100vw;
   top: 70px;
   overflow: hidden;

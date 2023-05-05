@@ -10,7 +10,6 @@ const ChapterItem = (props) => {
       <div className='chapter-number'>{number}</div>
       <div className='chapter-title'>{title}</div>
       <div className='chapter-image-container'>
-        {/* <img alt={title} src={`chapters/${imageName}`} /> */}
         <img className='chapter-image' alt="" src={`chapters/${imageName}`} />
       </div>
     </Link>
