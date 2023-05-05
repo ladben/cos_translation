@@ -28,7 +28,7 @@ const Rooms = () => {
       </div>
       <div className='chapter-location-title'>{currentLocation.title}</div>
       <div className='room-swiper-wrapper'>
-        <swiper-container slides-per-view="1" effect="coverflow">
+        <swiper-container slides-per-view="1">
           {currentRoomList.map(room => <swiper-slide><RoomItem key={`room-${room.id}`} room={{...room}}></RoomItem></swiper-slide>)}
         </swiper-container>
       </div>
