@@ -18,6 +18,10 @@
   width: max-content;
 }
 
+.room-number {
+  font-variant: small-caps;
+}
+
 .room-text {
   padding: 10px;
   padding-top: 0;

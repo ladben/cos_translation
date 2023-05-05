@@ -1,0 +1,80 @@
+.room-chooser-wrapper {
+  position: relative;
+  height: 40px;
+  padding: 5px 40px 5px 0;
+}
+
+.cta-choose {
+  position: relative;
+  background: var(--grey);
+  border-left: 2px solid var(--dark);
+  border-right: 2px solid var(--dark);
+  margin: 0px 10px;
+  height: 100%;
+  border-radius: 0 0 20px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.room-chooser-wrapper.closed .cta-choose {
+  border-radius: 20px;
+}
+
+.cta-choose::before {
+  content: '';
+  position: absolute;
+  top: 8px;
+  right: 15px;
+  width: 0;
+  height: 0;
+  border-bottom: 5px solid;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+.cta-choose::after {
+  content: '';
+  position: absolute;
+  bottom: 8px;
+  right: 15px;
+  width: 0;
+  height: 0;
+  border-top: 5px solid;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+.cta-options {
+  position: absolute;
+  margin: 0 10px;
+  bottom: 30px;
+  width: 100%;
+  z-index: 1;
+  background: var(--grey);
+  overflow: hidden;
+  border-radius: 20px 20px 0 0;
+  max-height: 1000px;
+  transition: max-height 300ms ease-in-out;
+  box-shadow: 0px -4px 10px rgba(0, 0, 0, .3);
+}
+
+.room-chooser-wrapper.closed .cta-options {
+  max-height: 0;
+}
+
+.cta-options-grid {
+  margin: 10px;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 100%));
+  gap: 5px;
+}
+
+.cta-options-grid div {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+}

@@ -7,6 +7,7 @@ import { useParams, Link } from 'react-router-dom';
 import { register } from 'swiper/element/bundle';
 
 import RoomItem from './RoomItem';
+import RoomChooser from './RoomChooser';
 import Back from './Back';
 
 const Rooms = () => {
@@ -18,9 +19,6 @@ const Rooms = () => {
   const currentLocation = locationList.filter(location => location.id === parseInt(locationId))[0];
   const currentRoomList = roomList.filter(room => room.locationId === parseInt(locationId));
 
-  console.log(currentLocation);
-  console.log(currentRoomList);
-
   return (
     <div className='chapter-card room-page'>
       <div className='chapter-background-image-container'>
@@ -29,9 +27,10 @@ const Rooms = () => {
       <div className='chapter-location-title'>{currentLocation.title}</div>
       <div className='room-swiper-wrapper'>
         <swiper-container slides-per-view="1" effect="coverflow" auto-height="true">
-          {currentRoomList.map(room => <swiper-slide><RoomItem key={`room-${room.id}`} room={{...room}}></RoomItem></swiper-slide>)}
+          {currentRoomList.map(room => <swiper-slide key={`room-${room.id}`}><RoomItem room={{...room}}></RoomItem></swiper-slide>)}
         </swiper-container>
       </div>
+      <RoomChooser roomNumbers={currentRoomList.map(currentRoom => currentRoom.number)}/>
       <Link to={`/${chapterId}`}>
         <Back />
       </Link>
