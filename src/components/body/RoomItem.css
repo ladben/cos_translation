@@ -1,12 +1,24 @@
 .room-wrapper {
   background: var(--light);
   color: var(--dark);
-  margin: 10px;
-  height: calc(100% - 10px);
+  border: 1px solid var(--dark);
+  border-left: 2px solid var(--dark);
+  border-right: 2px solid var(--dark);
+  border-radius: 5px;
+}
+
+.room-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
+  padding: 0 15px 5px;
+  border-bottom: 2px solid var(--accent-light);
+  border-radius: 5px;
+  width: max-content;
 }
 
 .room-text {
-  overflow-y: auto;
-  height: calc(100% - 32px);
   padding: 10px;
+  padding-top: 0;
 }

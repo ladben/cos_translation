@@ -1,11 +1,14 @@
+.room-swiper-wrapper {
+  height: calc(100% - 20px);
+  padding: 0 10px;
+  overflow: scroll;
+}
+
+.swiper-slide-shadow-left,
+.swiper-slide-shadow-right {
+  background-image: none !important;
+}
+
 .chapter-location-title {
   position: relative;
-}
-
-.room-swiper-wrapper {
-  height: calc(100% - 40px);
-}
-
-swiper-container {
-  height: 100%;
 }

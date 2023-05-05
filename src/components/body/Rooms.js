@@ -22,13 +22,13 @@ const Rooms = () => {
   console.log(currentRoomList);
 
   return (
-    <div className='chapter-card'>
+    <div className='chapter-card room-page'>
       <div className='chapter-background-image-container'>
         <img className='chapter-background-image' alt="" src={`../chapters/${currentChapter.image}`}/>
       </div>
       <div className='chapter-location-title'>{currentLocation.title}</div>
       <div className='room-swiper-wrapper'>
-        <swiper-container slides-per-view="1">
+        <swiper-container slides-per-view="1" effect="coverflow" auto-height="true">
           {currentRoomList.map(room => <swiper-slide><RoomItem key={`room-${room.id}`} room={{...room}}></RoomItem></swiper-slide>)}
         </swiper-container>
       </div>
