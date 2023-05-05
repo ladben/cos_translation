@@ -1,0 +1,11 @@
+.chapter-location-title {
+  position: relative;
+}
+
+.room-swiper-wrapper {
+  height: calc(100% - 40px);
+}
+
+swiper-container {
+  height: 100%;
+}

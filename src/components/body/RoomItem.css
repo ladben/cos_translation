@@ -1,0 +1,17 @@
+.room-wrapper {
+  background: var(--light);
+  color: var(--dark);
+  margin: 10px;
+  height: calc(100% - 10px);
+}
+
+.room-text {
+  overflow-y: auto;
+  height: calc(100% - 32px);
+  padding: 10px;
+}
+
+.swiper-3d .swiper-slide-shadow-left,
+.swiper-3d .swiper-slide-shadow-right {
+  background-image: none !important;
+}

@@ -5,6 +5,7 @@
   right: 15px;
   bottom: 15px;
   background: var(--light);
+  z-index: 1000;
 }
 
 .back-button-container img {

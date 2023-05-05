@@ -14,13 +14,6 @@ function calculateParallax (element) {
 
   const limitTop = -30;
   const limitBottom = parentHeight + marginTop;
-
-  if (element.href === 'http://localhost:3000/1') {
-    console.log(element);
-    console.log(rect.top);
-    console.log(parentHeight);
-  }
-
   const bottomPosition = limitBottom - limitTop
 
   if (boundingTop > limitBottom) {

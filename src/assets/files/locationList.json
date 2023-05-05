@@ -82,7 +82,7 @@
   {
     "id": 11,
     "chapterId": 1,
-    "number": "L",
+    "number": "L.",
     "title": "Lake Zarovich",
     "text": "<p>Egy hegy lábánál, a ködös erdőbe ágyazva egy nagy tó található. A víz tökéletesen mozdulatlan és sötét, szörnyű tükörként vetíti a fölötte lévő fekete felhők képét.</p><i>Ha a karakterek nappal érkeznek a Vallakitól északra fekvő part mentén, tedd hozzá:</i><p>A déli part mentén három kis csónak ring a vizen. A tó közepén egy negyedik csónak látható, benne egy magányos alak ül, horgászbottal a kezében.</p>",
     "note": ""
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "chapterId": 1,
-    "number": "M",
+    "number": "M.",
     "title": "Mad Mage of Mount Baratok",
     "text": "<p>A hegyi tótól északra a fák megkezdik a Baratok hegy lejtőin való folyamatos felkapaszkodást, monolitikus jelenléte már ebben a távolságban is nyomasztó. A talaj itt sziklás, egyenetlen, fárasztó itt haladni. Még a farkasok is elkerülik az erdőnek ezt a részét. Hamarosan a völgyet elborító ködtakaró fölé emelkedtek. Sötét zivatarfelhők gomolyognak a fejetek felett.</p><p>Egy húsz méterre eső sziklán egy jávorszarvas áll. Hirtelen egy idős férfi alakját ölti magára, szakadt sárga köntösben.</p>",
     "note": ""
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "chapterId": 1,
-    "number": "P",
+    "number": "P.",
     "title": "Luna River Crossroads",
     "text": "<p>Az út egy X alakú kereszteződéshez érkezik, amelynek északnyugati, északkeleti, délnyugati és délkeleti elágazásai vannak. A kereszteződés keleti könyökének közelében egy letört fa jelzőtábla alsó fele áll ki a földből. A tábla felső fele, négy irányba mutató karokkal, a közeli gazban hever.</p>",
     "note": ""
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "chapterId": 1,
-    "number": "R",
+    "number": "R.",
     "title": "Raven River Crossroads",
     "text": "<p>Az út mellett megláttok egy megkopott útjelző táblát. A tábla három karja az út három ága mentén mutat előre. Az északra mutató karon Krezk felirat olvasható, és arra az erdőn keresztül egy folyót átszelő íves kőhidat láthattok. A kelet felé mutató karon Vallaki áll, és az út fokozatosan emelkedik felfelé. A délnyugatra mutató karon a Bormágus Borászat felirat olvasható. Az út abba az irányba enyhén lejt lefelé.</p>",
     "note": ""
