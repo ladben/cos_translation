@@ -11,7 +11,7 @@
   border-right: 2px solid var(--dark);
   margin: 0px 10px;
   height: 100%;
-  border-radius: 0 0 20px 20px;
+  border-radius: 0 0 15px 15px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,8 +19,12 @@
   text-transform: uppercase;
 }
 
+.cta-choose.closing {
+  border-radius: 0 0 15px 15px !important;
+}
+
 .room-chooser-wrapper.closed .cta-choose {
-  border-radius: 20px;
+  border-radius: 15px;
 }
 
 .cta-choose::before {
@@ -55,7 +59,7 @@
   z-index: 1;
   background: var(--grey);
   overflow: hidden;
-  border-radius: 20px 20px 0 0;
+  border-radius: 15px 15px 0 0;
   max-height: 1000px;
   transition: max-height 300ms ease-in-out;
   box-shadow: 0px -4px 10px rgba(0, 0, 0, .3);

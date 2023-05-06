@@ -1,7 +1,22 @@
 import './RoomChooser.css'
 
 function toggleChooser (e) {
-  e.target.closest('.room-chooser-wrapper').classList.toggle('closed');
+  const roomChooser = e.target.closest('.room-chooser-wrapper');
+  roomChooser.classList.toggle('closed');
+  if (roomChooser.classList.contains('closed')) {
+    const ctaChoose = roomChooser.querySelector('.cta-choose');
+    ctaChoose.classList.add('closing');
+    setTimeout(() => {
+      ctaChoose.classList.remove('closing');
+    }, 300);
+  }
+}
+
+function setSlider (roomPosition) {
+  const sliderElement = document.querySelector('.room-swiper-wrapper swiper-container');
+  if (sliderElement) {
+    sliderElement.swiper.slideTo(roomPosition, 500, false);
+  }
 }
 
 const RoomChooser = (props) => {
@@ -13,7 +28,7 @@ const RoomChooser = (props) => {
         Válassz szobát!
         <div className='cta-options'>
           <div className='cta-options-grid'>
-            {roomNumbers.map((roomNumber, i) => <div key={`room-number-${i}`}>{roomNumber}</div>)}
+            {roomNumbers.map((roomNumber, i) => <div key={`room-number-${i}`} onClick={() => setSlider(i)}>{roomNumber}</div>)}
           </div>
         </div>
       </div>
