@@ -3,7 +3,7 @@
     "id": 1,
     "chapterId": 1,
     "locationId": 6,
-    "number": "N2a",
+    "number": "G1.",
     "title": "A Vistana's Tale",
     "text": "<p>Egy hatalmas varázsló érkezett e földre több, mint egy évvel ezelőtt. Úgy emlékszem rá, mintha csak tegnap történt volna. Pontosan ott állt, ahol most ti! Igen megnyerő ember volt, úgy van. Azt gondolta összegyűjtheti Barovia népét az ördögi Strahd ellen. Felkavarta őket a lázadás gondolatával, és tömegesen vitte őket a kastélyhoz.</p><p>Amikor a vámpír megjelent, a varázsló paraszt hadseregének inába szállt a bátorsága. Halálfélelmükben elmenekültek mind. Aki mégis ott maradt, örökre eltűnt.</p><p>A varázsló és a vámpír egymás után szórták a varázslatokat. Küzdelmük Ravenloft udvaraitól egész a vízesést körbefogó szakadékig szállt! A saját szememmel láttam őket. A hegyoldalt mennydörgés rázta meg és hatalmas sziklák gördültek a varázslóra, mégiája mégis megmentette. Villámok csaptak le az égből, és a varázsló újra két lábon állt. De amikor az ördögi Strahd rázuhant, mágiája már cserben hagyta. Láttam, ahogy több száz métert zuhan a halálba. Lemásztam a folyóhoz, hogy megkeressem a holttestet, hogy… hát tudjátok, hogy találok-e valami értékeset nála de az Ilvis folyó addigra már rég arrébb mosta.</p>",
     "note": ""
@@ -12,64 +12,144 @@
     "id": 2,
     "chapterId": 1,
     "locationId": 6,
-    "number": "N2e",
+    "number": "G2.",
     "title": "Madam Eva's Tent",
     "text": "<p>Mágikus lángok vetnek vöröses fényt a sátor belsejére, megvilágítva egy alacsony, fekete bársonyszövetbe burkolt asztalt. Az asztalon lévő kristálygömbből fénysugár villan ki, miközben egy görnyedt alak a mélyébe néz. A vénasszony szavai ropognak, mint a száraz gaz: \"No lám, végül csak megérkeztetek!\" Harsogó nevetése úgy tör elő kiszáradt ajkaiból, mint egy őrült villámlás.</p>",
     "note": ""
   },
-
   {
     "id": 3,
-    "chapterId": 1,
-    "locationId": 11,
-    "number": "N2a",
-    "title": "A Vistana's Tale",
-    "text": "<p>Egy hatalmas varázsló érkezett e földre több, mint egy évvel ezelőtt. Úgy emlékszem rá, mintha csak tegnap történt volna. Pontosan ott állt, ahol most ti! Igen megnyerő ember volt, úgy van. Azt gondolta összegyűjtheti Barovia népét az ördögi Strahd ellen. Felkavarta őket a lázadás gondolatával, és tömegesen vitte őket a kastélyhoz.</p><p>Amikor a vámpír megjelent, a varázsló paraszt hadseregének inába szállt a bátorsága. Halálfélelmükben elmenekültek mind. Aki mégis ott maradt, örökre eltűnt.</p><p>A varázsló és a vámpír egymás után szórták a varázslatokat. Küzdelmük Ravenloft udvaraitól egész a vízesést körbefogó szakadékig szállt! A saját szememmel láttam őket. A hegyoldalt mennydörgés rázta meg és hatalmas sziklák gördültek a varázslóra, mégiája mégis megmentette. Villámok csaptak le az égből, és a varázsló újra két lábon állt. De amikor az ördögi Strahd rázuhant, mágiája már cserben hagyta. Láttam, ahogy több száz métert zuhan a halálba. Lemásztam a folyóhoz, hogy megkeressem a holttestet, hogy… hát tudjátok, hogy találok-e valami értékeset nála de az Ilvis folyó addigra már rég arrébb mosta.</p>",
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2FoR",
+    "title": "Fortunes of Ravenloft",
+    "text": "<p>Urwin félrevonul, és halkan beszél. \"A borkészletem majdnem elfogyott, és a következő szállítmány már késik. Odaadom nektek, amit kerestek, ha elhozzátok nekem a boromat. A szőlőskert és a borászat néhány mérföldre nyugatra van innen. Csak kövessétek az Öreg Svalich Utat és a táblákat.\"</p>",
     "note": ""
   },
   {
     "id": 4,
-    "chapterId": 1,
-    "locationId": 11,
-    "number": "N2b",
-    "title": "Madam Eva's Tent",
-    "text": "<p>Mágikus lángok vetnek vöröses fényt a sátor belsejére, megvilágítva egy alacsony, fekete bársonyszövetbe burkolt asztalt. Az asztalon lévő kristálygömbből fénysugár villan ki, miközben egy görnyedt alak a mélyébe néz. A vénasszony szavai ropognak, mint a száraz gaz: \"No lám, végül csak megérkeztetek!\" Harsogó nevetése úgy tör elő kiszáradt ajkaiból, mint egy őrült villámlás.</p>",
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2c.",
+    "title": "Taproom",
+    "text": "<p>A bejárat mellett nyirkos köpenyek lógnak a fogasokon. A kocsma tele van asztalokkal és székekkel, közöttük keskeny ösvények kanyarognak. A szemközti fal mentén található a söntéspult, egy erkély alatt, amelyet a jobb oldali falhoz simuló falépcsőn lehet megközelíteni, egy másik erkély pedig a bejárat fölé nyúlik. Az ablakokon vastag redőnyök és keresztlécek vannak. A bárpult fölött lógó és az asztalokon nyugvó lámpások tompa narancssárga fényben fürdetik a helyiséget, és árnyékot vetnek a falakra, amelyek többségét fatáblákra szerelt farkasfejek díszítik.</p>",
     "note": ""
   },
   {
     "id": 5,
-    "chapterId": 1,
-    "locationId": 11,
-    "number": "N2c",
-    "title": "A Vistana's Tale",
-    "text": "<p>Egy hatalmas varázsló érkezett e földre több, mint egy évvel ezelőtt. Úgy emlékszem rá, mintha csak tegnap történt volna. Pontosan ott állt, ahol most ti! Igen megnyerő ember volt, úgy van. Azt gondolta összegyűjtheti Barovia népét az ördögi Strahd ellen. Felkavarta őket a lázadás gondolatával, és tömegesen vitte őket a kastélyhoz.</p><p>Amikor a vámpír megjelent, a varázsló paraszt hadseregének inába szállt a bátorsága. Halálfélelmükben elmenekültek mind. Aki mégis ott maradt, örökre eltűnt.</p><p>A varázsló és a vámpír egymás után szórták a varázslatokat. Küzdelmük Ravenloft udvaraitól egész a vízesést körbefogó szakadékig szállt! A saját szememmel láttam őket. A hegyoldalt mennydörgés rázta meg és hatalmas sziklák gördültek a varázslóra, mégiája mégis megmentette. Villámok csaptak le az égből, és a varázsló újra két lábon állt. De amikor az ördögi Strahd rázuhant, mágiája már cserben hagyta. Láttam, ahogy több száz métert zuhan a halálba. Lemásztam a folyóhoz, hogy megkeressem a holttestet, hogy… hát tudjátok, hogy találok-e valami értékeset nála de az Ilvis folyó addigra már rég arrébb mosta.</p>",
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2d.",
+    "title": "Wine Storage",
+    "text": "<p>Ez a folyosó három függönyös alkóvot, valamint egy nagyobb, boroshordókkal kitömött területet tartalmaz.</p>",
     "note": ""
   },
   {
     "id": 6,
-    "chapterId": 1,
-    "locationId": 11,
-    "number": "N2d",
-    "title": "Madam Eva's Tent",
-    "text": "<p>Mágikus lángok vetnek vöröses fényt a sátor belsejére, megvilágítva egy alacsony, fekete bársonyszövetbe burkolt asztalt. Az asztalon lévő kristálygömbből fénysugár villan ki, miközben egy görnyedt alak a mélyébe néz. A vénasszony szavai ropognak, mint a száraz gaz: \"No lám, végül csak megérkeztetek!\" Harsogó nevetése úgy tör elő kiszáradt ajkaiból, mint egy őrült villámlás.</p>",
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2e.",
+    "title": "Kitchen",
+    "text": "<p>Ez a helyiség valaki olyan konyhája, aki igazán szeret főzni. Van itt minden, tornyosuló fazekak halmai, a falakon edények és a hozzávalókkal teli polcok, de legfőképpen mindenféle ínycsiklandozó illat. A zsúfolt helyiség közepén két lámpás lóg egy masszív fa asztal fölött, a tűzhelyen pedig egy fazék leves bugyog.</p>",
     "note": ""
   },
   {
     "id": 7,
-    "chapterId": 1,
-    "locationId": 11,
-    "number": "N2e",
-    "title": "A Vistana's Tale",
-    "text": "<p>Egy hatalmas varázsló érkezett e földre több, mint egy évvel ezelőtt. Úgy emlékszem rá, mintha csak tegnap történt volna. Pontosan ott állt, ahol most ti! Igen megnyerő ember volt, úgy van. Azt gondolta összegyűjtheti Barovia népét az ördögi Strahd ellen. Felkavarta őket a lázadás gondolatával, és tömegesen vitte őket a kastélyhoz.</p><p>Amikor a vámpír megjelent, a varázsló paraszt hadseregének inába szállt a bátorsága. Halálfélelmükben elmenekültek mind. Aki mégis ott maradt, örökre eltűnt.</p><p>A varázsló és a vámpír egymás után szórták a varázslatokat. Küzdelmük Ravenloft udvaraitól egész a vízesést körbefogó szakadékig szállt! A saját szememmel láttam őket. A hegyoldalt mennydörgés rázta meg és hatalmas sziklák gördültek a varázslóra, mégiája mégis megmentette. Villámok csaptak le az égből, és a varázsló újra két lábon állt. De amikor az ördögi Strahd rázuhant, mágiája már cserben hagyta. Láttam, ahogy több száz métert zuhan a halálba. Lemásztam a folyóhoz, hogy megkeressem a holttestet, hogy… hát tudjátok, hogy találok-e valami értékeset nála de az Ilvis folyó addigra már rég arrébb mosta.</p>",
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2f.",
+    "title": "Stable",
+    "text": "<p>Madárcsicsergést és egy ló panaszos nyerítését halljátok, amikor benéztek ebbe az istállóba. Az boxok tiszták és jól karbantartottak. Az egyikben egy szürke kanca lakik jelenleg. A keleti falba egy kis ajtó van beékelve, és egy fából készült létrán lehet feljutni egy padlásra. A padlást körülvevő fakorláton tucatnyi holló üldögél.</p>",
     "note": ""
   },
   {
     "id": 8,
-    "chapterId": 1,
-    "locationId": 11,
-    "number": "N2f",
-    "title": "Madam Eva's Tent",
-    "text": "<p>Mágikus lángok vetnek vöröses fényt a sátor belsejére, megvilágítva egy alacsony, fekete bársonyszövetbe burkolt asztalt. Az asztalon lévő kristálygömbből fénysugár villan ki, miközben egy görnyedt alak a mélyébe néz. A vénasszony szavai ropognak, mint a száraz gaz: \"No lám, végül csak megérkeztetek!\" Harsogó nevetése úgy tör elő kiszáradt ajkaiból, mint egy őrült villámlás.</p>",
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2h.",
+    "title": "Ravens' Loft",
+    "text": "<p>A két koszos ablakon beszűrődő halvány fényben szénakupacokat láttok, amelyekből vasvillák állnak ki. Hollók uralják ezt a helyet - több százat lehet látni belőlük.</p>",
+    "note": ""
+  },
+  {
+    "id": 9,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2i.",
+    "title": "Secret Stairs and Hall",
+    "text": "<p>Északon egy falépcső vezet le tizenöt métert egy lépcsőfokig. Egy ablak halványan megvilágítja a nyugat-keleti irányban futó, rövid, faburkolatos folyosót.</p>",
+    "note": ""
+  },
+  {
+    "id": 10,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2j.",
+    "title": "Great Balcony",
+    "text": "<p>A csapszék teljes hosszában fából készült erkély húzódik, amelyet holló motívumokkal díszített fakorlát vesz ölel. A csapszék számos lámpája megvilágítja a szarufákat, és baljós árnyakat vet a csúcsos mennyezetre.</p>",
+    "note": ""
+  },
+  {
+    "id": 11,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2k.",
+    "title": "Guest Balcony",
+    "text": "<p>Ez a hat méter hosszú erkély szabad rálátást biztosít az ivóra, és fából készült, holló motívumokkal faragott korláttal van szegélyezve. A csapszék számos lámpája megvilágítja a szarufákat, és baljós árnyakat vet a csúcsos mennyezetre.</p>",
+    "note": ""
+  },
+  {
+    "id": 12,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2l.",
+    "title": "Guest Rooms",
+    "text": "<p>A kis négyzetes szoba legtávolabbi sarkaiban két kényelmes ágy pihen, hozzájuk tartozó lábzsákokkal. Mindkét ágyon farkasprémek vannak felhalmozva. Az ágyak között egy lámpa áll a zsalugáteres ablak alatti asztalon. Két magas fekete szekrény áll a falnál az ajtó mellett.</p>",
+    "note": ""
+  },
+  {
+    "id": 13,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2m.",
+    "title": "Guest Room",
+    "text": "<p>A jól megvilágított szoba északi falán négy egyszerű, szalmamatracos ágy sorakozik. Mindegyik ágyhoz tartozik egy-egy hozzá tartozó lábszekrény a ruhák és egyéb holmik tárolására. Az ajtóval szembeni sarokban egy asztal és négy szék áll. Az asztalon egy olajlámpa sárga lánggal világít.</p>",
+    "note": ""
+  },
+  {
+    "id": 14,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2n.",
+    "title": "Private Guest Room",
+    "text": "<p>Ebben a kis vendégszobában egy farkasbundákkal megrakott ágy, egy lábszekrény, egy magas szekrény és egy íróasztal a hozzá tartozó székkel. Az íróasztal tetején egy olajlámpa pihen egy vörös bőrrel kötött napló mellett.</p>",
+    "note": ""
+  },
+  {
+    "id": 15,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2o.",
+    "title": "Boys' Bedroom",
+    "text": "<p>Egy nagy, festett játékdoboz pihen két kis, kényelmes ágy között. A falakra a faburkolat fölött repülni készülő hollókat festettek.</p>",
+    "note": ""
+  },
+  {
+    "id": 16,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2p.",
+    "title": "Master Bedroom",
+    "text": "<p>A hozzá illő asztalok egy nagy, fakeretes ágyat szegélyeznek, vörös selyem baldachinnal. Az ággyal szemben egy gyönyörű hegyi völgyet ábrázoló faliszőnyeg függ. A többi falat egy kandalló és egy szekrény uralja.</p>",
+    "note": ""
+  },
+  {
+    "id": 17,
+    "chapterId": 4,
+    "locationId": 17,
+    "number": "N2q.",
+    "title": "Secret Attic",
+    "text": "<p>Ennek a hosszúkás padlásnak a mennyezete nyugat felé lejt, két és fél méter magasságról másfél méter magasságra csökken. A padlót négy szalmakazal fészek borítja, az északi falnál pedig egy lezárt vas páncélszekrény áll. A déli falon egy kis négyzet alakú nyílás vezet kifelé. A padlóba két, vaspánttal ellátott csapóajtó van beékelve.</p>",
     "note": ""
   }
 ]

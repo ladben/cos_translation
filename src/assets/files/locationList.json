@@ -110,5 +110,29 @@
     "title": "Raven River Crossroads",
     "text": "<p>Az út mellett megláttok egy megkopott útjelző táblát. A tábla három karja az út három ága mentén mutat előre. Az északra mutató karon Krezk felirat olvasható, és arra az erdőn keresztül egy folyót átszelő íves kőhidat láthattok. A kelet felé mutató karon Vallaki áll, és az út fokozatosan emelkedik felfelé. A délnyugatra mutató karon a Bormágus Borászat felirat olvasható. Az út abba az irányba enyhén lejt lefelé.</p>",
     "note": ""
+  },
+  {
+    "id": 15,
+    "chapterId": 4,
+    "number": "N0.",
+    "title": "Approaching the Town",
+    "text": "<p>A Öreg Svalich Út egy völgyben kanyarog, amelyet északról és délről sötét, komor hegyek vigyáznak. Az erdők visszahúzódnak, és feltárul egy mogorva, fából készült palánkkal körülvett hegyi város. Sűrű köd nyomul e falhoz, mintha utat keresne befelé, remélve, hogy álmában kapja el a várost.</p><p>A földút egy robusztus vaskapunál ér véget, amely mögött két sötét alak áll. A földbe ütve, a kapukon kívül az utat szegélyezve féltucatnyi karó áll, melyekre farkasfejek vannak felnyársalva.</p>",
+    "note": ""
+  },
+  {
+    "id": 16,
+    "chapterId": 4,
+    "number": "N1.",
+    "title": "St. Andral's Church",
+    "text": "<p>Az évszázados, düledező kőtemplom hátulján egy domború torony emelkedik, falait ólomüveg ablakok díszítik, melyek jámbor szenteket ábrázolnak. A templom mellett kovácsoltvas kerítés zárja körül a kertet, melynek sírkövei közt a vékony köd kígyó módjára tekergőzik.</p>",
+    "note": ""
+  },
+  {
+    "id": 17,
+    "chapterId": 4,
+    "number": "N2.",
+    "title": "Blue Water Inn",
+    "text": "<p>Szürke füst száll ki ennek a nagy, kétszintes, kőalapzatú, fából készült épületnek a kéményéből, amelynek megereszkedett cseréptetőjén több holló is üldögél. A főbejárat felett függő festett fatábla egy kék vízesést ábrázol.</p>",
+    "note": ""
   }
 ]
