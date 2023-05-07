@@ -9,7 +9,9 @@ const RoomItem = (props) => {
     <div className='room-wrapper'>
       <div className='room-title'>
         <span className='room-number'>{room.number} </span>
-        {room.title}</div>
+        {room.title}
+      </div>
+      {room.note && <div className='room-note'>{room.note}</div>}
       <div className='room-text'>{parse(room.text)}</div>
     </div>
   );

@@ -134,5 +134,13 @@
     "title": "Blue Water Inn",
     "text": "<p>Szürke füst száll ki ennek a nagy, kétszintes, kőalapzatú, fából készült épületnek a kéményéből, amelynek megereszkedett cseréptetőjén több holló is üldögél. A főbejárat felett függő festett fatábla egy kék vízesést ábrázol.</p>",
     "note": ""
+  },
+  {
+    "id": 18,
+    "chapterId": 4,
+    "number": "N3.",
+    "title": "Burgomaster's Mansion",
+    "text": "<p>A kúria falai vakolt kőből készültek, amelyeken számos foltot láthattok, ahol a vakolat a kor és az elhanyagoltság miatt lepergett. Az ablakokat mind befüggönyözték, beleértve a kastély kétszárnyas bejárati ajtaja feletti nagy, boltíves nyílást is.</p>",
+    "note": ""
   }
 ]

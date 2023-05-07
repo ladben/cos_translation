@@ -28,7 +28,7 @@ const RoomChooser = (props) => {
         Válassz szobát!
         <div className='cta-options'>
           <div className='cta-options-grid'>
-            {roomNumbers.map((roomNumber, i) => <div key={`room-number-${i}`} onClick={() => setSlider(i)}>{roomNumber}</div>)}
+            {roomNumbers.map((roomNumber, i) => <div key={`room-number-${i}`} onClick={() => setSlider(i)}><div>{roomNumber}</div></div>)}
           </div>
         </div>
       </div>

@@ -76,9 +76,19 @@
   gap: 5px;
 }
 
-.cta-options-grid div {
+.cta-options-grid > div {
   padding: 5px;
   text-align: center;
   border: 1px solid;
   border-radius: 5px;
+}
+
+.cta-options-grid > div > div {
+  overflow: hidden;
+}
+
+@media (max-width: 340px) {
+  .cta-options-grid {
+    font-size: 14px;
+  }
 }
