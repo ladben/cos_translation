@@ -25,7 +25,7 @@ const Rooms = () => {
         <img className='chapter-background-image' alt="" src={`../chapters/${currentChapter.image}`}/>
       </div>
       <div className='chapter-location-title'>{currentLocation.title}</div>
-      <div className='room-swiper-wrapper'>
+      <div className='room-swiper-wrapper auto-height'>
         <swiper-container slides-per-view="1" effect="coverflow" auto-height="true">
           {currentRoomList.map(room => <swiper-slide key={`room-${room.id}`}><RoomItem room={{...room}}></RoomItem></swiper-slide>)}
         </swiper-container>
