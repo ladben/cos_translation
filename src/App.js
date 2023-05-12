@@ -30,7 +30,6 @@ function App() {
 
   return (
     <div className='outer-wrapper'>
-      <h2>ENV variable: {process.env.REACT_APP_MY_API}</h2>
       <Head />
       <Router>
         <Switch>
