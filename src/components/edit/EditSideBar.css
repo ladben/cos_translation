@@ -1,0 +1,78 @@
+.navigation {
+  flex: 0 1 20%;
+  display: flex;
+  flex-direction: column;
+  background: var(--dark);
+}
+
+.navigation .title {
+  font-size: 26px;
+  color: var(--light);
+  font-weight: bold;
+  border-bottom: 1px solid var(--grey);
+  padding: 15px 40px;
+}
+
+.links {
+  margin: 50px 15px;
+  background: rgba(255, 255, 255, .1);
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.navigation a {
+  text-decoration: none;
+  padding: 10px 25px;
+  font-size: 20px;
+  color: var(--light);
+  width: 100%;
+  border-top: 2px solid var(--dark);
+  position: relative;
+  background: rgba(255, 255, 255, 0);
+  transition: all 200ms ease-in-out;
+}
+
+.links a:first-child {
+  border-top: none;
+}
+
+.links a::after {
+  content: '';
+  right: 30px;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  position: absolute;
+  border-bottom: 2px solid var(--light);
+  border-right: 2px solid var(--light);
+  transform: translateY(-50%) rotate(-45deg);
+  transition: all 200ms ease-in-out;
+}
+
+.links a:hover,
+.links a.active {
+  background: rgba(255, 255, 255, .05);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .2);
+}
+
+.links a:hover::after,
+.links a.active::after {
+  right: 25px;
+}
+
+.navigation a.back {
+  width: unset;
+  background: var(--accent-dark);
+  color: var(--light);
+  margin: 0px 15px;
+  border-radius: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navigation a.back:hover {
+  filter: brightness(1.2);
+}

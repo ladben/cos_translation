@@ -1,43 +1,17 @@
 .edit-wrapper {
   position: absolute;
   width: 100%;
-  height: 100%;
+  min-height: 100%;
   top: 0;
   left: 0;
-  background: black;
+  background: var(--dark);
   z-index: 1000;
   word-wrap: break-word;
-  padding: 10px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 20px;
 }
 
-.edit-wrapper a {
-  text-decoration: none;
-  padding: 10px;
-  font-size: 20px;
+.edit-dashboard-wrapper {
+  flex: 0 1 80%;
   background: var(--light);
   color: var(--dark);
-  border-radius: 50px;
-  width: 200px;
-  text-align: center;
-  border: 3px solid var(--dark);
-  box-shadow: 0px 0px 10px 3px rgba(255, 255, 255, .2);
-}
-
-.edit-wrapper a.back {
-  background: var(--accent-dark);
-  color: var(--light);
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
-  width: 60px;
-  height: 60px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 0;
 }

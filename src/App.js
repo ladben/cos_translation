@@ -7,7 +7,6 @@ import Chapters from './components/body/Chapters';
 import Locations from './components/body/Locations';
 import Rooms from './components/body/Rooms';
 import EditWrapper from './components/edit/EditWrapper';
-import EditChapters from './components/edit/EditChapters';
 
 import raven from './assets/images/raven.jpeg';
 
@@ -38,11 +37,8 @@ function App() {
           <Route exact path="/">
             <Chapters />
           </Route>
-          <Route exact path="/edit">
+          <Route path="/edit">
             <EditWrapper />
-          </Route>
-          <Route exact path="/edit/chapters">
-            <EditChapters />
           </Route>
           <Route path="/:chapterId/:locationId">
             <Rooms />

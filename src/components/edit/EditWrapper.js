@@ -1,14 +1,19 @@
-import './EditWrapper.css'
+import { Route } from 'react-router-dom';
 
-import { Link } from 'react-router-dom';
+import EditSideBar from './EditSideBar';
+import EditDashboard from './EditDashboard';
+
+import './EditWrapper.css'
 
 const EditWrapper = () => {
   return (
     <div className='edit-wrapper'>
-      <Link to="/edit/chapters">Chapters</Link>
-      <Link to="/edit/locations">Locations</Link>
-      <Link to="/edit/rooms">Rooms</Link>
-      <Link to="/" className="back">{'<'}</Link>
+      <EditSideBar />
+      <div className='edit-dashboard-wrapper'>
+        <Route path="/edit/chapter-edit">
+          <EditDashboard table="chapters"/>
+        </Route>
+      </div>
     </div>
   );
 }
