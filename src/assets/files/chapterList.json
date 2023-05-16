@@ -3,84 +3,84 @@
     "id": 1,
     "number": "II.",
     "title": "The Lands of Barovia",
-    "image": "2_The_Lands_of_Barovia.jpg"
+    "image": "2_The_Lands_of_Barovia"
   },
   {
     "id": 2,
     "number": "III.",
     "title": "The Village of Barovia",
-    "image": "3_The_Village_of_Barovia.jpg"
+    "image": "3_The_Village_of_Barovia"
   },
   {
     "id": 3,
     "number": "IV.",
     "title": "Castle Ravenloft",
-    "image": "4_Castle_Ravenloft.jpg"
+    "image": "4_Castle_Ravenloft"
   },
   {
     "id": 4,
     "number": "V.",
     "title": "The Town of Vallaki",
-    "image": "5_The_Town_of_Vallaki.jpg"
+    "image": "5_The_Town_of_Vallaki"
   },
   {
     "id": 5,
     "number": "VI.",
     "title": "Old Bonegrinder",
-    "image": "6_Old_Bonegrinder.jpg"
+    "image": "6_Old_Bonegrinder"
   },
   {
     "id": 6,
     "number": "VII.",
     "title": "Argynvostholt",
-    "image": "7_Argynvostholt.jpg"
+    "image": "7_Argynvostholt"
   },
   {
     "id": 7,
     "number": "VIII.",
     "title": "The Village of Krezk",
-    "image": "8_The_Village_of_Krezk.jpg"
+    "image": "8_The_Village_of_Krezk"
   },
   {
     "id": 8,
     "number": "IX.",
     "title": "Tsolenka Pass",
-    "image": "9_Tsolenka_Pass.jpg"
+    "image": "9_Tsolenka_Pass"
   },
   {
     "id": 9,
     "number": "X.",
     "title": "The Ruins of Berez",
-    "image": "10_The_Ruins_of_Berez.jpg"
+    "image": "10_The_Ruins_of_Berez"
   },
   {
     "id": 10,
     "number": "XI.",
     "title": "Van Richten's Tower",
-    "image": "11_Van_Richten_s_Tower.jpg"
+    "image": "11_Van_Richten_s_Tower"
   },
   {
     "id": 11,
     "number": "XII.",
     "title": "The Wizard of Wines",
-    "image": "12_The_Wizard_of_Wines.jpg"
+    "image": "12_The_Wizard_of_Wines"
   },
   {
     "id": 12,
     "number": "XIII.",
     "title": "The Amber Temple",
-    "image": "13_The_Amber_Temple.jpg"
+    "image": "13_The_Amber_Temple"
   },
   {
     "id": 13,
     "number": "XIV.",
     "title": "Yester Hill",
-    "image": "14_Yester_Hill.jpg"
+    "image": "14_Yester_Hill"
   },
   {
     "id": 14,
     "number": "XV.",
     "title": "Werewolf Den",
-    "image": "15_Werewolf_Den.jpg"
+    "image": "15_Werewolf_Den"
   }
 ]

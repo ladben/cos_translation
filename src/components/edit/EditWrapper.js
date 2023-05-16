@@ -13,6 +13,9 @@ const EditWrapper = () => {
         <Route path="/edit/chapter-edit">
           <EditDashboard table="chapters"/>
         </Route>
+        <Route path="/edit/location-edit">
+          <EditDashboard table="locations"/>
+        </Route>
       </div>
     </div>
   );

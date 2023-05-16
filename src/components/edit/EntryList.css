@@ -35,6 +35,10 @@
   border-bottom: 1px solid var(--dark);
 }
 
+.entry-chapter {
+  padding: 2px 20px;
+}
+
 .entry-section-list {
   flex: 0 1 100%;
 }

@@ -25,7 +25,10 @@
   position: relative;
 }
 
-.create-entry-inputs .image-input {
+.create-entry-inputs .image-input,
+.create-entry-inputs .chapter-id-input,
+.create-entry-inputs .text-input,
+.create-entry-inputs .note-input {
   grid-column-end: span 3;
 }
 
@@ -37,7 +40,9 @@
   color: var(--grey);
 }
 
-.create-entry-inputs input {
+.create-entry-inputs input,
+.create-entry-inputs select,
+.create-entry-inputs .text-input {
   width: 100%;
   height: 56px;
   font-size: 16px;
@@ -46,6 +51,33 @@
   padding-left: 10px;
   border-radius: 10px;
   border: 1px solid var(--dark);
+}
+
+.create-entry-inputs select {
+  padding: 0;
+  padding-left: 10px;
+  padding-right: 20px;
+  width: unset;
+}
+
+.create-entry-inputs .text-input {
+  height: unset;
+  padding: 0;
+}
+
+.create-entry-inputs .text-input .quill .ql-snow {
+  border: none;
+} 
+
+.create-entry-inputs .text-input .quill .ql-toolbar.ql-snow {
+  padding-left: 40px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+}
+
+.create-entry-inputs .text-input .quill .ql-container.ql-snow .ql-editor {
+  font-size: 16px;
+  padding: 0px 10px 10px;
 }
 
 .create-entry-button {
@@ -61,4 +93,8 @@
 
 .create-entry-button:hover {
   filter: brightness(1.5);
+}
+
+.text-input .ql-formats > *:not(button.ql-bold, button.ql-italic, button.ql-underline) {
+  display: none;
 }
