@@ -1,6 +1,6 @@
 import './Rooms.css';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { register } from 'swiper/element/bundle';
 import { db } from '../../firebase-config';
@@ -14,6 +14,7 @@ const Rooms = () => {
   register();
 
   const { chapterId, locationId } = useParams();
+  const swiperElRef = useRef(null);
 
   const [chapterImage, setChapterImage] = useState('');
   const [locationTitle, setLocationTitle] = useState('');
@@ -53,16 +54,22 @@ const Rooms = () => {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // useEffect(() => {
+  //   swiperElRef.current.swiper.on('slideChange', function () {
+  //     console.log('slide changed');
+  //   });
+  // }, []);
+
   return (
     <div className='chapter-card room-page'>
       <div className='chapter-background-image-container'>
         <img className='chapter-background-image' alt="" src={`../chapters/${chapterImage}`}/>
       </div>
       <div className='chapter-location-title'>{locationTitle}</div>
-                                    {/* auto-height */}
       <div className='room-swiper-wrapper'>
-        <swiper-container slides-per-view="1" effect="coverflow">
+        <swiper-container ref={swiperElRef} slides-per-view="1" effect="coverflow">
           {roomList.map(room => <swiper-slide key={`room-${room.id}`}><RoomItem room={{...room}}></RoomItem></swiper-slide>)}
+          <swiper-slide><div className='phantom-slide-max-height'>PHANTOM</div></swiper-slide>
         </swiper-container>
       </div>
       <RoomChooser roomNumbers={roomList.map(currentRoom => currentRoom.number)}/>

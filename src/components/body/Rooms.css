@@ -8,8 +8,8 @@
   overflow: scroll;
 }
 
-.room-swiper-wrapper.auto-height swiper-container {
-  min-height: 100%;
+.phantom-slide-max-height {
+  height: calc(var(--vh) * 100 - 215px);
 }
 
 .swiper-slide-shadow-left,
