@@ -14,7 +14,6 @@
   top: 48px;
   position: absolute;
   opacity: 0;
-  z-index: 1;
 }
 
 .swiper-slide-shadow-left,
