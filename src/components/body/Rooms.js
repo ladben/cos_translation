@@ -1,10 +1,10 @@
 import './Rooms.css';
-import chapterList from '../../assets/files/chapterList.json';
-import locationList from '../../assets/files/locationList.json';
-import roomList from '../../assets/files/roomList.json';
 
+import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { register } from 'swiper/element/bundle';
+import { db } from '../../firebase-config';
+import { collection, getDocs, getDoc, orderBy, query, where, doc } from 'firebase/firestore';
 
 import RoomItem from './RoomItem';
 import RoomChooser from './RoomChooser';
@@ -15,22 +15,54 @@ const Rooms = () => {
 
   const { chapterId, locationId } = useParams();
 
-  const currentChapter = chapterList.filter(chapter => chapter.id === parseInt(chapterId))[0];
-  const currentLocation = locationList.filter(location => location.id === parseInt(locationId))[0];
-  const currentRoomList = roomList.filter(room => room.locationId === parseInt(locationId));
+  const [chapterImage, setChapterImage] = useState('');
+  const [locationTitle, setLocationTitle] = useState('');
+  const [roomList, setRoomList] = useState([]);
+
+  const roomCollectionRef = collection(db, 'rooms');
+
+  useEffect(() => {
+    const getCurrChapterImage = async () => {
+      const chapterRef = doc(db, 'chapters', chapterId);
+      const chapterSnap = await getDoc(chapterRef);
+
+      setChapterImage(chapterSnap.data().image);
+    };
+
+    getCurrChapterImage();
+
+    const getCurrLocationTitle = async () => {
+      const locationRef = doc(db, 'locations', locationId);
+      const locationSnap = await getDoc(locationRef);
+
+      setLocationTitle(locationSnap.data().title);
+    }
+
+    getCurrLocationTitle();
+
+    const getRooms = async () => {
+      const q = query(roomCollectionRef, where('locationId', '==', locationId), orderBy('place'));
+      const data = await getDocs(q);
+      setRoomList(data.docs.map((doc) => ({...doc.data(), id: doc.id})));
+    }
+
+    getRooms();
+    console.log('got rooms');
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className='chapter-card room-page'>
       <div className='chapter-background-image-container'>
-        <img className='chapter-background-image' alt="" src={`../chapters/${currentChapter.image}`}/>
+        <img className='chapter-background-image' alt="" src={`../chapters/${chapterImage}`}/>
       </div>
-      <div className='chapter-location-title'>{currentLocation.title}</div>
+      <div className='chapter-location-title'>{locationTitle}</div>
       <div className='room-swiper-wrapper auto-height'>
         <swiper-container slides-per-view="1" effect="coverflow" auto-height="true">
-          {currentRoomList.map(room => <swiper-slide key={`room-${room.id}`}><RoomItem room={{...room}}></RoomItem></swiper-slide>)}
+          {roomList.map(room => <swiper-slide key={`room-${room.id}`}><RoomItem room={{...room}}></RoomItem></swiper-slide>)}
         </swiper-container>
       </div>
-      <RoomChooser roomNumbers={currentRoomList.map(currentRoom => currentRoom.number)}/>
+      <RoomChooser roomNumbers={roomList.map(currentRoom => currentRoom.number)}/>
       <Link to={`/${chapterId}`}>
         <Back />
       </Link>

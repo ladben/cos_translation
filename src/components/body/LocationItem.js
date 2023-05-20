@@ -1,15 +1,33 @@
 import './LocationItem.css'
-import roomList from '../../assets/files/roomList.json'
+// import roomList from '../../assets/files/roomList.json'
 
-import { useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
+import { db } from '../../firebase-config';
+import { collection, getDocs, query, where } from 'firebase/firestore';
 
 const parse = require('html-react-parser');
 
 const LocationItem = (props) => {
   const { location } = props;
-  const currentRoomList = roomList.filter(room => room.locationId === parseInt(location.id));
-  const locationHasRooms = currentRoomList.length === 0 ? false : true;
+
+  const [roomList, setRoomList] = useState([]);
+  const roomCollectionRef = collection(db, 'rooms');
+
+  useEffect(() => {
+    const getRooms = async () => {
+      const q = query(roomCollectionRef, where('locationId', '==', location.id));
+      const data = await getDocs(q);
+      setRoomList(data.docs
+        .map((doc) => ({...doc.data(), id: doc.id})));
+    };
+
+    getRooms();
+    console.log('got rooms');
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  const locationHasRooms = roomList.length === 0 ? false : true;
 
   const locationRef = useRef(null);
   const locationNoteRef = useRef(null);

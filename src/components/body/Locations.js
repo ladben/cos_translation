@@ -1,8 +1,9 @@
 import './Locations.css'
-import locationList from '../../assets/files/locationList.json';
-import chapterList from '../../assets/files/chapterList.json';
 
+import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { db } from '../../firebase-config';
+import { collection, getDocs, doc, getDoc, query, orderBy, where } from 'firebase/firestore';
 
 import LocationItem from './LocationItem';
 import Back from './Back';
@@ -10,17 +11,40 @@ import Back from './Back';
 const Locations = () => {
   const { chapterId } = useParams();
 
-  const currentChapter = chapterList.filter(chapter => chapter.id === parseInt(chapterId))[0];
-  const currentLocationList = locationList.filter(location => location.chapterId === parseInt(chapterId));
+  const [chapterImage, setChapterImage] = useState('');
+  const [locationList, setLocationList] = useState([]);
+  const locationCollectionRef = collection(db, 'locations');
+
+  useEffect(() => {
+    const getLocations = async () => {
+      const q = query(locationCollectionRef, where('chapterId', '==', chapterId), orderBy('place'));
+      const data = await getDocs(q);
+      setLocationList(data.docs
+        .map((doc) => ({...doc.data(), id: doc.id})));
+    };
+
+    getLocations();
+    console.log('got locations');
+
+    const getCurrChapterImage = async () => {
+      const chapterRef = doc(db, 'chapters', chapterId);
+      const chapterSnap = await getDoc(chapterRef);
+
+      setChapterImage(chapterSnap.data().image);
+    };
+
+    getCurrChapterImage();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className='chapter-card'>
       <div className='chapter-background-image-container'>
-        <img className='chapter-background-image' alt="" src={`chapters/${currentChapter.image}_square.png`}/>
+        <img className='chapter-background-image' alt="" src={`chapters/${chapterImage}`}/>
       </div>
       <div className='body-wrapper'>
         <div className='location-container grid-1'>
-          {currentLocationList.map(location => <LocationItem key={`location-${location.id}`} location={{...location}} />)}
+          {locationList.map(location => <LocationItem key={`location-${location.id}`} location={{...location}} />)}
         </div>
       </div>
       <Link to="/">

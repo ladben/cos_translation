@@ -16,6 +16,7 @@ const EditDashboard = (props) => {
 
   const [entries, setEntries] = useState([]);
   const [chapterList, setChapterList] = useState([]);
+  const [locationList, setLocationList] = useState([]);
   const [deleteEntryId, setDeleteEntryId] = useState(0);
   const [deleteEntryTitle, setDeleteEntryTitle] = useState('');
 
@@ -48,7 +49,7 @@ const EditDashboard = (props) => {
 
     getEntries();
 
-    if (table === 'locations') {
+    if (table === 'locations' || table === 'rooms') {
       const chapterCollectionRef = collection(db, 'chapters');
       const getChapters = async () => {
         const data = await getDocs(chapterCollectionRef);
@@ -71,6 +72,29 @@ const EditDashboard = (props) => {
       getChapters();
     }
 
+    if (table === 'rooms') {
+      const locationCollectionRef = collection(db, 'locations');
+      const getLocations = async () => {
+        const data = await getDocs(locationCollectionRef);
+        setLocationList(data.docs.map((doc) => {
+          const locationData = {...doc.data()};
+          return {place: locationData.place, title: locationData.title, chapterId: locationData.chapterId, id: doc.id};
+        }).sort((currLocation, nextLocation) => {
+          if (currLocation.place < nextLocation.place) {
+            return -1;
+          }
+
+          if (currLocation.place > nextLocation.place) {
+            return 1;
+          }
+
+          return 0;
+        }));
+      }
+
+      getLocations();
+    }
+
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
@@ -82,6 +106,7 @@ const EditDashboard = (props) => {
         setNewEntryData={setNewEntryData}
         table={table}
         chapterList={chapterList}
+        locationList={locationList}
       />
       <EntryList
         entries={[...entries]}
@@ -89,6 +114,7 @@ const EditDashboard = (props) => {
         setDeleteEntryId={setDeleteEntryId}
         setDeleteEntryTitle={setDeleteEntryTitle}
         chapterList={chapterList}
+        locationList={locationList}
       />
       <DeleteConfirm entryId={deleteEntryId} entryTitle={deleteEntryTitle} deleteEntry={deleteEntry} />
     </div>

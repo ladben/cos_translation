@@ -10,11 +10,14 @@ const EditWrapper = () => {
     <div className='edit-wrapper'>
       <EditSideBar />
       <div className='edit-dashboard-wrapper'>
-        <Route path="/edit/chapter-edit">
-          <EditDashboard table="chapters"/>
+        <Route path='/edit/chapter-edit'>
+          <EditDashboard table='chapters'/>
         </Route>
-        <Route path="/edit/location-edit">
-          <EditDashboard table="locations"/>
+        <Route path='/edit/location-edit'>
+          <EditDashboard table='locations'/>
+        </Route>
+        <Route path='/edit/room-edit'>
+          <EditDashboard table='rooms'/>
         </Route>
       </div>
     </div>

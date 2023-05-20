@@ -27,6 +27,7 @@
 
 .create-entry-inputs .image-input,
 .create-entry-inputs .chapter-id-input,
+.create-entry-inputs .location-id-input,
 .create-entry-inputs .text-input,
 .create-entry-inputs .note-input {
   grid-column-end: span 3;
