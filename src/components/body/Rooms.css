@@ -8,8 +8,13 @@
   overflow: scroll;
 }
 
-.phantom-slide-max-height {
-  height: calc(var(--vh) * 100 - 215px);
+.room-swiper-wrapper-front {
+  height: calc(100% - 100px);
+  width: 100%;
+  top: 48px;
+  position: absolute;
+  opacity: 0;
+  z-index: 1;
 }
 
 .swiper-slide-shadow-left,
