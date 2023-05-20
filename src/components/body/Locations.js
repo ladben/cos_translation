@@ -40,7 +40,7 @@ const Locations = () => {
   return (
     <div className='chapter-card'>
       <div className='chapter-background-image-container'>
-        <img className='chapter-background-image' alt="" src={`chapters/${chapterImage}`}/>
+        <img className='chapter-background-image' alt="" src={`chapters/${chapterImage}_square.png`}/>
       </div>
       <div className='body-wrapper'>
         <div className='location-container grid-1'>

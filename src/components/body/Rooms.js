@@ -117,7 +117,7 @@ const Rooms = () => {
   return (
     <div className='chapter-card room-page'>
       <div className='chapter-background-image-container'>
-        <img className='chapter-background-image' alt="" src={`../chapters/${chapterImage}`}/>
+        <img className='chapter-background-image' alt="" src={`../chapters/${chapterImage}_square.png`}/>
       </div>
       <div className='chapter-location-title'>{locationTitle}</div>
       <div className='room-swiper-wrapper'>
