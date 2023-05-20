@@ -27,6 +27,7 @@ const Rooms = () => {
       const chapterSnap = await getDoc(chapterRef);
 
       setChapterImage(chapterSnap.data().image);
+      console.log('got chapter image');
     };
 
     getCurrChapterImage();
@@ -36,6 +37,7 @@ const Rooms = () => {
       const locationSnap = await getDoc(locationRef);
 
       setLocationTitle(locationSnap.data().title);
+      console.log('got location title');
     }
 
     getCurrLocationTitle();
@@ -57,8 +59,9 @@ const Rooms = () => {
         <img className='chapter-background-image' alt="" src={`../chapters/${chapterImage}`}/>
       </div>
       <div className='chapter-location-title'>{locationTitle}</div>
+                                    {/* auto-height */}
       <div className='room-swiper-wrapper auto-height'>
-        <swiper-container slides-per-view="1" effect="coverflow" auto-height="true">
+        <swiper-container slides-per-view="1" effect="coverflow">
           {roomList.map(room => <swiper-slide key={`room-${room.id}`}><RoomItem room={{...room}}></RoomItem></swiper-slide>)}
         </swiper-container>
       </div>
