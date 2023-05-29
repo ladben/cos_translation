@@ -3,7 +3,7 @@
   border-radius: 50%;
   padding: 25px;
   right: 15px;
-  bottom: 15px;
+  bottom: 75px;
   background: var(--light);
   z-index: 1000;
 }

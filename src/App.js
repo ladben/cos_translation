@@ -9,6 +9,7 @@ import Rooms from './components/body/Rooms';
 import EditWrapper from './components/edit/EditWrapper';
 
 import raven from './assets/images/raven.jpeg';
+import OpenNpcPanel from './components/body/OpenNpcPanel';
 
 function calculateVh() {
   const vh = window.innerHeight * 0.01;
@@ -32,6 +33,7 @@ function App() {
   return (
     <div className='outer-wrapper'>
       <Head />
+      <OpenNpcPanel />
       <Router>
         <Switch>
           <Route exact path="/">

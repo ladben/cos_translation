@@ -1,0 +1,1064 @@
+[
+  {
+    "name": "The Abbot",
+    "pageNumber": 151,
+    "alignment": "Lawful Evil",
+    "statblock": "Deva",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Krezk Abbey: Main Hall (S13)",
+    "briefDescription": "Deva sent to protect Krezk who has fallen into madness. Creator of the Mongrelfolk and the Flesh Golem Vasilka"
+  },
+  {
+    "name": "Adrian Martikov",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Wereraven Son of Davian Martikov and worker at Wizard of Wines"
+  },
+  {
+    "name": "Alenka",
+    "pageNumber": 44,
+    "alignment": "Neutral",
+    "statblock": "Spy",
+    "statblockAlterations": "Vistani",
+    "location": "Villiage of Barovia: Blood of the Vine Tavern (E2)",
+    "briefDescription": "One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia"
+  },
+  {
+    "name": "Alexei",
+    "pageNumber": 121,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Bandit",
+    "statblockAlterations": "Vistani",
+    "location": "Vallaki: Vistani Camp Tent (N9c)",
+    "briefDescription": "Young Vistana man from the camp southwest of Vallaki. Beaten by Luvash for allowing Arabelle to be taken"
+  },
+  {
+    "name": "Amalthia",
+    "pageNumber": 112,
+    "alignment": "Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Servants' Quarters (N4h)",
+    "briefDescription": "Wachterhaus maid"
+  },
+  {
+    "name": "Anastrasya Karelova",
+    "pageNumber": 94,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Strahd's Tomb (K86)",
+    "briefDescription": "Former Bride of Strahd, buried within Strahd's Tomb"
+  },
+  {
+    "name": "Anna Krezkova",
+    "pageNumber": 145,
+    "alignment": "Lawful Good",
+    "statblock": "Noble",
+    "statblockAlterations": "",
+    "location": "Krezk Villiage (S3)",
+    "briefDescription": "Wife of Burgomaster Dmitri Krezkov. Described as \"fearless\". Grieving over the death of her last child Ilya"
+  },
+  {
+    "name": "Arabelle (Tempter)",
+    "pageNumber": 38,
+    "alignment": "Lawful Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "2 HP; No effective attacks; Vistani",
+    "location": "Lake Zarovich (L)",
+    "briefDescription": "Seven-year-old Vistana girl. Daughter of Luvash. Kidnapped by Bluto Krogarov"
+  },
+  {
+    "name": "Ariel du Plumette",
+    "pageNumber": 86,
+    "alignment": "Evil-aligned",
+    "statblock": "Ghost",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Catacombs (K84, Crypt 4)",
+    "briefDescription": "Mad ghost of a failed inventor who dreamed of flying. Will attempt to possess a PC and throw himself from a great height"
+  },
+  {
+    "name": "Arik Lorensk",
+    "pageNumber": 43,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Villiage of Barovia: Blood of the Vine Tavern (E2)",
+    "briefDescription": "Bartender of Blood of the Vine Tavern in the Villiage of Barovia"
+  },
+  {
+    "name": "Arrigal (Horseman)",
+    "pageNumber": 121,
+    "alignment": "Neutral Evil",
+    "statblock": "Assassin",
+    "statblockAlterations": "Vistani",
+    "location": "Vallaki: Vistani Camp Tent (N9c)",
+    "briefDescription": "Vistani assassin employed by Strahd. Will attempt to steal from or even kill party members"
+  },
+  {
+    "name": "Aziana",
+    "pageNumber": 203,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "",
+    "location": "Werewolf Den: Guard Post (Z2)",
+    "briefDescription": "Werewolf guard assigned to watch the entrance of the den"
+  },
+  {
+    "name": "Baba Lysaga",
+    "pageNumber": 163,
+    "alignment": "Chaotic Evil",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Ruins of Berez: Baba Lysaga's Hut (U3)",
+    "briefDescription": "Crazed old woman who believes herself to be Strahd's true mother. Will kill anyone who she sees as a threat to Strahd"
+  },
+  {
+    "name": "Bella Sunbane",
+    "pageNumber": 127,
+    "alignment": "Neutral Evil",
+    "statblock": "Night Hag",
+    "statblockAlterations": "",
+    "location": "Old Bonegrinder: Bedroom (O3)",
+    "briefDescription": "Daughter of Morgantha the hag and is one-third of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries"
+  },
+  {
+    "name": "Beucephalus",
+    "pageNumber": 93,
+    "alignment": "Neutral Evil",
+    "statblock": "Nightmare",
+    "statblockAlterations": "104 HP",
+    "location": "Ravenloft Castle: Catacombs (K84, Crypt 39)",
+    "briefDescription": "Strahd's beloved nightmare steed"
+  },
+  {
+    "name": "Bianca",
+    "pageNumber": 203,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "",
+    "location": "Werewolf Den: South Cave (Z5a)",
+    "briefDescription": "White-haired werewolf deep within the den. Kiril Stoyanovich's mate"
+  },
+  {
+    "name": "Bildrath Cantemir",
+    "pageNumber": 43,
+    "alignment": "Lawful Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Villiage of Barovia: Bildrath's Mercantile (E1)",
+    "briefDescription": "Owner and proprietor of Bildrath's Mercantile in the Villiage of Barovia"
+  },
+  {
+    "name": "Bluto Krogarov",
+    "pageNumber": 38,
+    "alignment": "Neutral Evil",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Lake Zarovich (L)",
+    "briefDescription": "Drunken and destitute fisherman from Vallaki. Kidnaps Arabelle and attempts to sacrifice her to the lake in exchange for fish"
+  },
+  {
+    "name": "Bray Martikov",
+    "pageNumber": 98,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "7 HP; noncombatant",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Nine-year-old son of Danika and Urwin. Scampers about the inn and easily gets underfoot"
+  },
+  {
+    "name": "Brom Martikov",
+    "pageNumber": 98,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "7 HP; noncombatant",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Eleven-year-old son of Danika and Urwin. Scampers about the inn and easily gets underfoot"
+  },
+  {
+    "name": "Cladiu Martikov",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Teenage son of Stefania and Dag. Grandson of Davian Martikov"
+  },
+  {
+    "name": "Clovin Belview (Marionette)",
+    "pageNumber": 153,
+    "alignment": "Neutral Evil",
+    "statblock": "Mongrelfolk",
+    "statblockAlterations": "Two-headed feature",
+    "location": "Krezk Abbey: Loft and Belfry (S17)",
+    "briefDescription": "Two-headed mongrelfolk musician. Tasked by the Abbot with feeding and caring for his mongrelfolk bretheren"
+  },
+  {
+    "name": "Cyrus Belview",
+    "pageNumber": 77,
+    "alignment": "Lawful Evil",
+    "statblock": "Mongrelfolk",
+    "statblockAlterations": "Keen hearing and smell feature",
+    "location": "Castle Ravenloft: Servants' Hall (K62)",
+    "briefDescription": "Faithful mongrelfolk servant to Strahd. Will try to lure the party into the elevator trap (K61)."
+  },
+  {
+    "name": "Dag Tomescu",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Married to Stefania Martikova. Son-in-law of Davian Martikov"
+  },
+  {
+    "name": "Dimira Yolensky",
+    "pageNumber": 155,
+    "alignment": "Lawful Good",
+    "statblock": "noncombatant",
+    "statblockAlterations": "",
+    "location": "Krezk Villiage (S3)",
+    "briefDescription": "Pregnant woman from Krezk. Gives birth to souless child (\"Something New\" Event)"
+  },
+  {
+    "name": "Dmitri Krezkov",
+    "pageNumber": 145,
+    "alignment": "Lawful Good",
+    "statblock": "Noble",
+    "statblockAlterations": "",
+    "location": "Krezk Villiage (S3)",
+    "briefDescription": "Burgomaster of Krezk. Grieving over the death of his last child Ilya"
+  },
+  {
+    "name": "Donavich (Broken One)",
+    "pageNumber": 46,
+    "alignment": "Lawful Good",
+    "statblock": "Acolyte",
+    "statblockAlterations": "",
+    "location": "Villiage of Barovia: Church Chapel (E5f)",
+    "briefDescription": "Priest of the Villiage of Barovia. Spends his days praying for the salvation of his son Doru"
+  },
+  {
+    "name": "Doru",
+    "pageNumber": 47,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Villiage of Barovia: Church Undercroft (E5g)",
+    "briefDescription": "Son of Donavich. Turned into a Vampire Spawn by Strahd during the Mad Mage's failed attack on Ravenloft"
+  },
+  {
+    "name": "Danika Dorakova",
+    "pageNumber": 98,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Barkeep and co-owner of the Blue Water Inn. Wife of Urwin Martikov. Member of the Keepers of the Feather"
+  },
+  {
+    "name": "Davanka",
+    "pageNumber": 203,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "",
+    "location": "Werewolf Den: Guard Post (Z2)",
+    "briefDescription": "Werewolf guard assigned to watch the entrance of the den"
+  },
+  {
+    "name": "Davian Martikov (Raven)",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Owner of the Wizard of Wines and Patriarch of the Martikov Family."
+  },
+  {
+    "name": "Dhavit",
+    "pageNumber": 112,
+    "alignment": "Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Servants' Quarters (N4h)",
+    "briefDescription": "Wachterhaus cook"
+  },
+  {
+    "name": "Drusilla",
+    "pageNumber": 101,
+    "alignment": "unaligned",
+    "statblock": "Draft Horse",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Stable (N2f)",
+    "briefDescription": "Rictavio's horse. Described as a traveling companion by Rictavio's false journal"
+  },
+  {
+    "name": "Elvir Martikov",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Wereraven Son of Davian Martikov and worker at Wizard of Wines"
+  },
+  {
+    "name": "Emil Toranescu",
+    "pageNumber": 81,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "72 HP",
+    "location": "Castle Ravenloft: South Dungeon (K75a)",
+    "briefDescription": "Former leader of the werewolves in Barovia. Ousted by Kiril and imprisoned by Strahd"
+  },
+  {
+    "name": "Endorovich the Terrible",
+    "pageNumber": 87,
+    "alignment": "Chaotic Evil",
+    "statblock": "Gargoyle (x2)",
+    "statblockAlterations": "HP 77x2; His spirit inhabits one gargoyle at a time",
+    "location": "Castle Ravenloft: Catacombs (K84, Crypt 7)",
+    "briefDescription": "Spirit of a long-dead warlord. Fights the party by inhabiting the gargoyles within his crypt"
+  },
+  {
+    "name": "Ernst Larnak",
+    "pageNumber": 110,
+    "alignment": "Lawful Evil",
+    "statblock": "Spy",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Den (N4k)",
+    "briefDescription": "Money-grubbing spy employed by Fiona Wachter"
+  },
+  {
+    "name": "Escher",
+    "pageNumber": 70,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Lounge (K49)",
+    "briefDescription": "Vampire companion to Strahd. Described as a \"handsome young man"
+  },
+  {
+    "name": "Exethanter",
+    "pageNumber": 188,
+    "alignment": "Evil-aligned",
+    "statblock": "Lich",
+    "statblockAlterations": "99 HP; only remembers cantrips",
+    "location": "Amber Temple: Lich's Lair (X27)",
+    "briefDescription": "Once a powerful lich lord of the Amber Temple. Now weakened and decrepit (can be restored with greater restoration)"
+  },
+  {
+    "name": "Ezmerelda d'Avenir (Mists)",
+    "pageNumber": "p50, 142, 154, 172",
+    "alignment": "Chaotic Good",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Ravenloft, Argynvostholt, Krezk, Van Richten's Tower (K, Q, S, V)",
+    "briefDescription": "Heavily armed Vistana vampire hunter. Apprenticed under Rudolph van Richten, now searching Barovia for her master"
+  },
+  {
+    "name": "Fiona Wachter",
+    "pageNumber": 110,
+    "alignment": "Lawful Evil",
+    "statblock": "Priest",
+    "statblockAlterations": "AC 10; variant spell list*",
+    "location": "Vallaki: Wachterhaus Parlor (N4i)",
+    "briefDescription": "Vallakian noblewoman and cult leader. Wants to sieze control of Vallaki from the Vallakoviches"
+  },
+  {
+    "name": "Franz Groza",
+    "pageNumber": 205,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "",
+    "location": "Werewolf Den: Leader of the Pack Event",
+    "briefDescription": "Young but fierce\" werewolf who will take over leadership of the pack if Emil and Kiril are both killed."
+  },
+  {
+    "name": "Gadof Blinsky",
+    "pageNumber": 118,
+    "alignment": "Chaotic Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blinsky Toys (N7)",
+    "briefDescription": "Struggling toymaker of Vallaki, and source of most toys in Barovia. Forced by Izek Strazni to make Ireena Kolyana dolls"
+  },
+  {
+    "name": "Gertruda",
+    "pageNumber": 68,
+    "alignment": "Neutral Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: King's Bedchamber (K42)",
+    "briefDescription": "Naive young girl from the villiage of Barovia. Ran away from home to be with Strahd"
+  },
+  {
+    "name": "Godfrey Gwilym (Ghost)",
+    "pageNumber": 139,
+    "alignment": "Lawful Evil",
+    "statblock": "Revenant",
+    "statblockAlterations": "Paladin spellcaster*",
+    "location": "Argynvostholt (Q37)",
+    "briefDescription": "High ranking member of the Order of the Silver Dragon. Former lover of Vladimir Horngaard"
+  },
+  {
+    "name": "Gunther Arasek",
+    "pageNumber": 115,
+    "alignment": "Lawful Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Arasek Stockyard (N5)",
+    "briefDescription": "Co-owner of the Arasek Stockyard. Married to Yelena"
+  },
+  {
+    "name": "Haliq",
+    "pageNumber": 112,
+    "alignment": "Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Servants' Quarters (N4h)",
+    "briefDescription": "Wachterhaus valet"
+  },
+  {
+    "name": "Helga Ruvak",
+    "pageNumber": 64,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Court (K32)",
+    "briefDescription": "Vampire spawn of Strahd. Will pretend to be a helpless maid to gain the party's trust before attacking them (\"Maid in Hell\")"
+  },
+  {
+    "name": "Helwa",
+    "pageNumber": 186,
+    "alignment": "Chaotic Evil",
+    "statblock": "Gladiator",
+    "statblockAlterations": "",
+    "location": "Amber Temple: Southwest Annex (X15)",
+    "briefDescription": "Leader of a small hunting party of berserkers taking shelter in the Amber Temple"
+  },
+  {
+    "name": "Henrik van der Voort",
+    "pageNumber": 116,
+    "alignment": "Lawful Evil",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Coffin Maker's Shop (N6)",
+    "briefDescription": "Reclusive and disliked coffin maker from Vallaki. Paid by Vasili von Holtz (Strahd) to hide coffins containing Vampire Spawn"
+  },
+  {
+    "name": "Ireena Kolyana (Innocent)",
+    "pageNumber": 44,
+    "alignment": "Lawful Good",
+    "statblock": "Noble",
+    "statblockAlterations": "14 HP",
+    "location": "Villiage of Barovia: Burgomaster's Mansion (E4)",
+    "briefDescription": "Adopted daughter of the burgomaster of the Villiage of Barovia. Reincarnation of Tatyana, Strahd's unrequited love interest from centuries ago"
+  },
+  {
+    "name": "Ismark Kolyanovich (Executioner)",
+    "pageNumber": 43,
+    "alignment": "Lawful Good",
+    "statblock": "Veteran",
+    "statblockAlterations": "",
+    "location": "Villiage of Barovia: Blood of the Vine Tavern (E2)",
+    "briefDescription": "Son of the late burgomaster of the Villiage of Barovia, known as \"Ismark the Lesser\". Brother of Ireena Kolyana"
+  },
+  {
+    "name": "Izek Stranzi",
+    "pageNumber": 119,
+    "alignment": "Neutral Evil",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Vallaki: Town Square (N9)",
+    "briefDescription": "Bloodthirsty guard leader of Vallaki. Severed right arm replaced with fiendish arm a few months ago. Real brother of Ireena Kolyana"
+  },
+  {
+    "name": "Karl Wachter",
+    "pageNumber": 100,
+    "alignment": "Neutral",
+    "statblock": "Noble",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Troublemaking son of Fiona Wachter. Brother of Nikolai Jr."
+  },
+  {
+    "name": "Kasimir Velikov (Seer)",
+    "pageNumber": 121,
+    "alignment": "Neutral",
+    "statblock": "dusk elf Mage",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Vallaki: Vistani Camp (N9a)",
+    "briefDescription": "Crippled Dusk Elf living among the Vistani near Vallaki. Wracked with guilt over his centuries-old murder of his sister, Patrina Velikovna"
+  },
+  {
+    "name": "Kellen",
+    "pageNumber": 203,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "AC 10; 2 HP; noncombatant",
+    "location": "Werewolf Den: North Cave (Z5b)",
+    "briefDescription": "Young werewolf recently welcomed into the pack. Kidnapped and forced to fight to the death in the ring of stone (Z8) against other child captives."
+  },
+  {
+    "name": "Kiril Stoyanovich",
+    "pageNumber": 205,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "90 HP",
+    "location": "Werewolf Den",
+    "briefDescription": "Cruel current leader of the werewolf pack. Recently took over leadership of the pack by allying with Strahd to oust Emil, the former leader"
+  },
+  {
+    "name": "Klutz Tripalotsky (Ghost)",
+    "pageNumber": 91,
+    "alignment": "None given",
+    "statblock": "Phantom Warrior",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Catacombs (K84, Crypt 33)",
+    "briefDescription": "Ancient phantom warrior who died by falling upon his own sword. Lived and died long before the days of Strahd"
+  },
+  {
+    "name": "Kolya",
+    "pageNumber": 142,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Bandit",
+    "statblockAlterations": "Vistani",
+    "location": "Argynvostholt Entrance (Q1)",
+    "briefDescription": "Crazed Vistani courier who brings a mysterious coffin to the entrance of Argynvostholt (\"Special Delivery\" Event)"
+  },
+  {
+    "name": "Kretyana Dolvof",
+    "pageNumber": 155,
+    "alignment": "Lawful Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Krezk Villiage (S3)",
+    "briefDescription": "Krezkian midwife who identifies a newborn baby as soulless (\"Something New\" Event)"
+  },
+  {
+    "name": "Kroval \"Mad Dog\" Grislek",
+    "pageNumber": 92,
+    "alignment": "Neutral Evil",
+    "statblock": "Wraith",
+    "statblockAlterations": "Fights with three Hell Hounds",
+    "location": "Castle Ravenloft: Catacombs (K84, Crypt 38)",
+    "briefDescription": "Spirit of an old warleader. His crypt is guarded by his wraith as well as three hell hounds"
+  },
+  {
+    "name": "Lazlo Ulrich",
+    "pageNumber": 162,
+    "alignment": "Neutral Good",
+    "statblock": "Ghost",
+    "statblockAlterations": "",
+    "location": "Ruins of Berez: Ulrich Manor (U2)",
+    "briefDescription": "Deceased burgomaster of Berez. Killed along with his city for murdering his daughter Marina, preventing Strahd from claiming her"
+  },
+  {
+    "name": "Lars Kjurls",
+    "pageNumber": 123,
+    "alignment": "Lawful Good",
+    "statblock": "Guard",
+    "statblockAlterations": "",
+    "location": "Vallaki: Festival of the Blazing Sun Event",
+    "briefDescription": "Vallakian guard who laughs at the burgomaster during the Festival of the Blazing Sun. He is tied up and dragged through town as punishment"
+  },
+  {
+    "name": "Lief Lipsiege",
+    "pageNumber": 62,
+    "alignment": "Chaotic Evil",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft (K30)",
+    "briefDescription": "Strahd's accountant, chained to his own desk."
+  },
+  {
+    "name": "Lucian Petrovich",
+    "pageNumber": 97,
+    "alignment": "Lawful Good",
+    "statblock": "Priest",
+    "statblockAlterations": "",
+    "location": "Vallaki: St. Andral's Church (N1)",
+    "briefDescription": "Priest of Vallaki. Preaches nightly to terrified Vallakians, trying to comfort them. Targeted for death by Strahd in the \"Feast of St. Andral\" Event"
+  },
+  {
+    "name": "Ludmilla Vilisevic",
+    "pageNumber": 94,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Strahd's Tomb (K86)",
+    "briefDescription": "Former Bride of Strahd, buried within Strahd's Tomb"
+  },
+  {
+    "name": "Luvash",
+    "pageNumber": 121,
+    "alignment": "Chaotic Evil",
+    "statblock": "Bandit Captain",
+    "statblockAlterations": "Vistani",
+    "location": "Vallaki: Vistani Camp Tent (N9c)",
+    "briefDescription": "Brutish co-leader of the Vistani Camp near Vallaki. Brother of Arrigal and father of Arabelle"
+  },
+  {
+    "name": "Lydia Petrovna",
+    "pageNumber": 105,
+    "alignment": "Lawful Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Burgomaster's Mansion Dining Room (N3c)",
+    "briefDescription": "Long-suffering wife of Burgomaster Vargas Vallakovich. Agrees with his every word, even at the cost of her own sanity."
+  },
+  {
+    "name": "Majesto",
+    "pageNumber": 115,
+    "alignment": "Lawful Evil",
+    "statblock": "Imp",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Cult Headquarters (N4t)",
+    "briefDescription": "Lady Fiona Wachter's summoned Imp"
+  },
+  {
+    "name": "Madalena",
+    "pageNumber": 112,
+    "alignment": "Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Servants' Quarters (N4h)",
+    "briefDescription": "Wachterhaus maid"
+  },
+  {
+    "name": "Madam Eva",
+    "pageNumber": 37,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Tser Pool Encampment (G)",
+    "briefDescription": "Elderly Vistana fortuneteller. Traded her youth to Mother Night in exchange for magical foresight and long life. Daughter of Lord Barov and half-sister to Strahd and Sergei. Her real name is Katarina"
+  },
+  {
+    "name": "Mad Mage of Mt. Baratok (Broken One)",
+    "pageNumber": 39,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Archmage",
+    "statblockAlterations": "variant spell list*",
+    "location": "Base of Mt. Baratok (M)",
+    "briefDescription": "Powerful wizard from a distant land. Traveled to Barovia to destroy Strahd, but was defeated and driven mad. His true identity is Mordenkainen, legendary archmage of the Circle of Eight"
+  },
+  {
+    "name": "Mad Mary",
+    "pageNumber": 44,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Villiage of Barovia: Mad Mary's House (E3)",
+    "briefDescription": "Grieving mother found weeping in her home in the Villiage of Barovia. She is distraught over her runaway daughter, Gertruda."
+  },
+  {
+    "name": "Martin Martikov",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "7 HP; noncombatant",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Young wereraven boy from the Wizard of Wines. Son of Stefania and Dag and grandson of Davian"
+  },
+  {
+    "name": "Marzena Belview",
+    "pageNumber": 150,
+    "alignment": "Chaotic Neutral",
+    "statblock": "Mongrelfolk",
+    "statblockAlterations": "Flight feature",
+    "location": "Krezk Abbey (S12d)",
+    "briefDescription": "Winged Mongrelfolk in the Abbey of St. Markovia. Chained to the ground and will not allow anyone other than Clovin Belview to approach her. Sister of Mishka Belview"
+  },
+  {
+    "name": "Milivoj",
+    "pageNumber": 97,
+    "alignment": "Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "15 STR; Shovel attack",
+    "location": "Vallaki: St. Andral's Church (N1)",
+    "briefDescription": "Groundskeeper and gravedigger of St. Andral's Church. Steals the bones of St. Andral and gives them to Henrik van der Voort"
+  },
+  {
+    "name": "Mirabel",
+    "pageNumber": 44,
+    "alignment": "Neutral",
+    "statblock": "Spy",
+    "statblockAlterations": "Vistani",
+    "location": "Villiage of Barovia: Blood of the Vine Tavern (E2)",
+    "briefDescription": "One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia"
+  },
+  {
+    "name": "Mishka Belview",
+    "pageNumber": 150,
+    "alignment": "Chaotic Evil",
+    "statblock": "Mongrelfolk",
+    "statblockAlterations": "Spider Climb feature",
+    "location": "Krezk Abbey (in the well, S12a)",
+    "briefDescription": "Murderous spider-like mongrelfolk hiding in the well in the Abbey of St. Markovia. He has discovered that he likes killing people. Brother of Marzena Belview."
+  },
+  {
+    "name": "Morgantha",
+    "pageNumber": "p48, 127",
+    "alignment": "Neutral Evil",
+    "statblock": "Night Hag",
+    "statblockAlterations": "",
+    "location": "Old Bonegrinder (or in Villiage of Barovia)",
+    "briefDescription": "Mother of Bella Sunbane and Offalia Wormwiggle. Leader of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries"
+  },
+  {
+    "name": "Muriel Vinshaw",
+    "pageNumber": 165,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Ruins of Berez: Standing Stones (U6)",
+    "briefDescription": "Wereraven scout watching Baba Lysaga's hut from afar. Warns the party of the danger of facing Baba head on"
+  },
+  {
+    "name": "Neferon",
+    "pageNumber": 184,
+    "alignment": "Neutral Evil",
+    "statblock": "Arcanaloth",
+    "statblockAlterations": "",
+    "location": "Amber Temple: God of Secrets (X5a)",
+    "briefDescription": "Arcanaloth hiding within the Amber Temple. Attacks the party from within the faceless god statue. Will claim to be a human wizard named \"Henrich Stolt\" if captured"
+  },
+  {
+    "name": "Nikolai Wachter Sr. (Horseman)",
+    "pageNumber": "p16, 113",
+    "alignment": "Lawful Neutral",
+    "statblock": "Noble",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Master Bedroom (N4o)",
+    "briefDescription": "Deceased husband of Fiona Wachter and father of Karl, Nikolai Jr. and Stella. His body is kept pristine by Fiona by use of gentle repose"
+  },
+  {
+    "name": "Nikolai Wachter Jr.",
+    "pageNumber": 100,
+    "alignment": "Neutral",
+    "statblock": "Noble",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Troublemaking son of Fiona Wachter. Brother of Karl"
+  },
+  {
+    "name": "Offalia Wormwiggle",
+    "pageNumber": 127,
+    "alignment": "Neutral Evil",
+    "statblock": "Night Hag",
+    "statblockAlterations": "",
+    "location": "Old Bonegrinder: Bedroom (O3)",
+    "briefDescription": "Daughter of Morgantha the hag and is one-third of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries"
+  },
+  {
+    "name": "Otto Belview",
+    "pageNumber": 147,
+    "alignment": "Lawful Evil",
+    "statblock": "Mongrelfolk",
+    "statblockAlterations": "Standing Leap feature",
+    "location": "Krezk Abbey: North Gate (S6)",
+    "briefDescription": "Mongrelfolk gate guard of the Abbey of St. Markovia. His madness is embodied by \"I am the smartest, wisest, strongest, fastest, and most beautiful person I know"
+  },
+  {
+    "name": "Parrywimple (Innocent)",
+    "pageNumber": 43,
+    "alignment": "Lawful Good",
+    "statblock": "Gladiator",
+    "statblockAlterations": "INT 6; AC 14",
+    "location": "Villiage of Barovia: Bildrath's Mercantile (E1)",
+    "briefDescription": "Simple-minded stock boy in Bildrath's Mercantile. Used by his uncle Bildrath as a bouncer for any difficult customers. Real name is Parpol Cantemir"
+  },
+  {
+    "name": "Patrina Velikovna",
+    "pageNumber": 89,
+    "alignment": "Neutral Evil",
+    "statblock": "dusk elf Archmage",
+    "statblockAlterations": "(Banshee statblock prior to resurrection)",
+    "location": "Castle Ravenloft: Catacombs (K84, Crypt 21)",
+    "briefDescription": "Long-dead dusk elf wizard, killed by her own people to prevent her from being corrupted by Strahd. Trapped in her crypt in the form of a Banshee. Her brother Kasimir seeks to resurrect her with the power of the Amber Temple"
+  },
+  {
+    "name": "Piccolo",
+    "pageNumber": 118,
+    "alignment": "unaligned",
+    "statblock": "Baboon",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blinsky Toys (N7)",
+    "briefDescription": "Pet monkey belonging to Gadof Blinsky. Originally owned by Rictavio, who gave him to Blinsky because pets are not allowed in the Blue Water Inn"
+  },
+  {
+    "name": "Pidlwick II (Marionette)",
+    "pageNumber": 73,
+    "alignment": "Neutral Evil",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Castle Ravenloft: High Tower Peak (K59)",
+    "briefDescription": "Clockwork replica of the jester Pidlwick created by legendary toymakter Fritz von Weerg. Killed the original Pidlwick by pushing him down a flight of stairs"
+  },
+  {
+    "name": "Rahadin",
+    "pageNumber": 79,
+    "alignment": "Lawful Evil",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Castle Ravenloft: Chamberlain's Office (K72)",
+    "briefDescription": "Sadistic chamberlain to the von Zarovich family for centuries. Unwavering in loyalty to Strahd"
+  },
+  {
+    "name": "Rictavio (Artifact)",
+    "pageNumber": 100,
+    "alignment": "Lawful Good",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Half-Elf bard and carnival man from a distant land who spends most days telling outrageous and implausable stories of his adventures. His true identity is the legendary vampire hunter Rudolph van Richten"
+  },
+  {
+    "name": "Sangzor",
+    "pageNumber": 160,
+    "alignment": "Chaotic Evil",
+    "statblock": "Giant Goat",
+    "statblockAlterations": "6 INT; 33 HP; resistant to nonmagical weapons",
+    "location": "Tsolenka Pass: Bloodhorn's Charge Event",
+    "briefDescription": "Legendary monster from the Balinok mountains. May attack anyone traveling along the Tsolenka Pass"
+  },
+  {
+    "name": "Sasha Ivliskova",
+    "pageNumber": 89,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Catacombs (K84, Crypt 20)",
+    "briefDescription": "Former Bride of Strahd, locked within a crypt after Strahd became bored of her"
+  },
+  {
+    "name": "Savid",
+    "pageNumber": 133,
+    "alignment": "Neutral",
+    "statblock": "dusk elf Scout",
+    "statblockAlterations": "",
+    "location": "Argynvostholt: Wine Storage (Q11)",
+    "briefDescription": "Dusk Elf scout sent to find Arabelle. Took refuge within Argynvostholt after being attacked by blights"
+  },
+  {
+    "name": "Skennis",
+    "pageNumber": 203,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "36 HP",
+    "location": "Werewolf Den: Wolf Den (Z3)",
+    "briefDescription": "Weak werewolf who has grown too old to hunt. Plays his electrum flute (poorly) to pass the time"
+  },
+  {
+    "name": "Sorvia",
+    "pageNumber": 44,
+    "alignment": "Neutral",
+    "statblock": "Spy",
+    "statblockAlterations": "Vistani",
+    "location": "Villiage of Barovia: Blood of the Vine Tavern (E2)",
+    "briefDescription": "One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia"
+  },
+  {
+    "name": "Stefania Martikova",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Daughter of Davian Martikov. Mother of four living in the Wizard of Wines"
+  },
+  {
+    "name": "Stella Wachter (Donjon)",
+    "pageNumber": 113,
+    "alignment": "Chaotic Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Wachterhaus Bedroom (N4n)",
+    "briefDescription": "Crazed daughter of Fiona Wachter. Driven mad by Victor Vallakovich's \"unkind words\" after she tried to befriend and wed Victor on her mother's orders. Now spends her days locked within her room, believing she is a cat"
+  },
+  {
+    "name": "Strahd von Zarovich",
+    "pageNumber": 9,
+    "alignment": "Lawful Evil",
+    "statblock": "Unique statblock",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Castle Ravenloft, or anywhere in Barovia",
+    "briefDescription": "Vampire lord over all of Barovia. The main antagonist and final boss of Curse of Strahd"
+  },
+  {
+    "name": "Szoldar Szoldarovich",
+    "pageNumber": 100,
+    "alignment": "Neutral",
+    "statblock": "Scout",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Wolf-hunter of Vallaki. Spends his free time drowning his misery at the Blue Water Inn rather than spend time with his family. Hunting partners with Yevgeni Krushkin"
+  },
+  {
+    "name": "Udo Lukovich",
+    "pageNumber": 107,
+    "alignment": "Lawful Neutral",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Burgomaster's Mansion Closet (N3m)",
+    "briefDescription": "Poor shoemaker of Vallaki. Imprisoned by Burgomaster Vallakovich for speaking out against him"
+  },
+  {
+    "name": "Urwin Martikov",
+    "pageNumber": 98,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Kitchen (N2e)",
+    "briefDescription": "Head cook and co-owner of the Blue Water Inn. Husband of Danika Dorakova and estranged son of Davian Martikov. Member of the Keepers of the Feather"
+  },
+  {
+    "name": "Vargas Vallakovich",
+    "pageNumber": 105,
+    "alignment": "Neutral Evil",
+    "statblock": "Noble",
+    "statblockAlterations": "",
+    "location": "Vallaki: Burgomaster's Mansion Library (N3l)",
+    "briefDescription": "Egotistical burgomaster of Vallaki. Frequently holds ridiculous festivals which he claims ward off Strahd's evil. Brutally persecutes anyone who dares criticize his leadership"
+  },
+  {
+    "name": "Vasilka (Tempter)",
+    "pageNumber": 151,
+    "alignment": "Neutral",
+    "statblock": "Flesh Golem",
+    "statblockAlterations": "",
+    "location": "Krezk Abbey: Main Hall (S13)",
+    "briefDescription": "Flesh Golem created by the Abbot as a bride to give to Strahd. Made to look like Strahd's ancient love interest Tatyana"
+  },
+  {
+    "name": "Victor Vallakovich (Donjon)",
+    "pageNumber": 110,
+    "alignment": "Neutral Evil",
+    "statblock": "Mage",
+    "statblockAlterations": "",
+    "location": "Vallaki: Burgomaster's Mansion Attic Workroom (N3t)",
+    "briefDescription": "Skittish son of burgomaster Vargas Vallakovich. Found a spellbook in his father's library and is trying to create a teleport circle in order to escape Barovia"
+  },
+  {
+    "name": "Vilnius",
+    "pageNumber": 185,
+    "alignment": "Neutral Evil",
+    "statblock": "Mage",
+    "statblockAlterations": "",
+    "location": "Amber Temple: Lecture Hall (X9)",
+    "briefDescription": "Cowardly wizard apprentice dragged to Barovia by his greedy master Jakarion. He is hiding away after he suffered terrible burns and his master was disintegrated."
+  },
+  {
+    "name": "Viggo Martikov",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "7 HP; noncombatant",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Young wereraven boy from the Wizard of Wines. Son of Stefania and Dag and grandson of Davian"
+  },
+  {
+    "name": "Vladimir Horngaard",
+    "pageNumber": 138,
+    "alignment": "Lawful Evil",
+    "statblock": "Revenant",
+    "statblockAlterations": "(in Appendix D)",
+    "location": "Argynvostholt (Q36)",
+    "briefDescription": "Former commander of the Order of the Silver Dragon. Blinded by rage, he will not allow anyone to destroy Strahd, which he would see as freeing Strahd from his suffering"
+  },
+  {
+    "name": "Volenta Popofsky",
+    "pageNumber": 94,
+    "alignment": "Neutral Evil",
+    "statblock": "Vampire Spawn",
+    "statblockAlterations": "",
+    "location": "Castle Ravenloft: Strahd's Tomb (K86)",
+    "briefDescription": "Former Bride of Strahd, buried within Strahd's Tomb"
+  },
+  {
+    "name": "Wensencia",
+    "pageNumber": 203,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "",
+    "location": "Werewolf Den: North Cave (Z5b)",
+    "briefDescription": "Werewolf watching over young Kellen, the newest member of the pack."
+  },
+  {
+    "name": "Willemina Rikalova",
+    "pageNumber": 97,
+    "alignment": "Lawful Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: St. Andral's Church (N1)",
+    "briefDescription": "Mother of the imprisoned Vallakian shoemaker Udo Lukovich. She spends every night at the Church of St. Andral, praying and pleading with Father Lucian for her son's return"
+  },
+  {
+    "name": "Wintersplinter",
+    "pageNumber": "p180, 200",
+    "alignment": "Neutral Evil",
+    "statblock": "Tree Blight",
+    "statblockAlterations": "",
+    "location": "Wizard of Wines & Yester Hill",
+    "briefDescription": "Massive tree blight summoned by druids of Yester Hill using the Wizard of Wines magic seed. Set loose to wreak havoc on the Wizard of Wines once summoned"
+  },
+  {
+    "name": "Yeska",
+    "pageNumber": 97,
+    "alignment": "Lawful Good",
+    "statblock": "noncombatant",
+    "statblockAlterations": "",
+    "location": "Vallaki: St. Andral's Church (N1)",
+    "briefDescription": "Orphaned altar boy of the Church of St. Andral. Assistant to Father Lucian"
+  },
+  {
+    "name": "Yelena Arasek",
+    "pageNumber": 115,
+    "alignment": "Lawful Good",
+    "statblock": "Commoner",
+    "statblockAlterations": "",
+    "location": "Vallaki: Arasek Stockyard (N5)",
+    "briefDescription": "Co-owner of the Arasek Stockyard. Married to Gunther"
+  },
+  {
+    "name": "Yevgeni Krushkin",
+    "pageNumber": 100,
+    "alignment": "Neutral",
+    "statblock": "Scout",
+    "statblockAlterations": "",
+    "location": "Vallaki: Blue Water Inn Taproom (N2c)",
+    "briefDescription": "Wolf-hunter of Vallaki. Spends his free time drowning his misery at the Blue Water Inn rather than spend time with his family. Hunting partners with Szoldar Szoldarovich"
+  },
+  {
+    "name": "Yolanda Martikova",
+    "pageNumber": 174,
+    "alignment": "Lawful Good",
+    "statblock": "Wereraven",
+    "statblockAlterations": "1 HP; effectively a human noncombatant",
+    "location": "Wizard of Wines: Forest Clearing",
+    "briefDescription": "Infant wereraven from the Wizard of Wines. Daughter of Stefania and Dag and granddaughter of Davian"
+  },
+  {
+    "name": "Zuleika Toranescu (Beast)",
+    "pageNumber": 204,
+    "alignment": "Chaotic Evil",
+    "statblock": "Werewolf",
+    "statblockAlterations": "",
+    "location": "Werewolf Den: Shrine of Mother Night (Z7)",
+    "briefDescription": "Vengeful mate of Emil, the former leader of the werewolf pack. She will help the party in exchange for Emil's freedom or for Kiril's death"
+  },
+  {
+    "name": "Zygfrek Belview",
+    "pageNumber": 148,
+    "alignment": "Lawful Evil",
+    "statblock": "Mongrelfolk",
+    "statblockAlterations": "Darkvision feature",
+    "location": "Krezk Abbey: North Gate (S6)",
+    "briefDescription": "Mongrelfolk gate guard of the Abbey of St. Markovia. Her madness is embodied by \"I don't like the way people judge me all the time"
+  }
+]

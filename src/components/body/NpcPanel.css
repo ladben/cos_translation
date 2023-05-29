@@ -1,0 +1,29 @@
+.npc-info {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 10px;
+  row-gap: 5px;
+  margin: 10px 0;
+  padding-top: 10px;
+  border-top: 1px solid;
+}
+
+.npc-info:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+
+.npc-name {
+  font-weight: bold;
+}
+
+.npc-page {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.npc-location {
+  font-size: 16px;
+  width: 100%;
+  word-break: break-word;
+}
